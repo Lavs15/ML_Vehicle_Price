@@ -1,0 +1,951 @@
+make,price,engine,cylinders,fuel,mileage,transmission,trim,body,doors,exterior_color,interior_color,drivetrain,years_old
+Jeep,74600.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,10.0,8-Speed Automatic,Series II,SUV,4.0,White,Global Black,Four-wheel Drive,1
+Jeep,50170.0,OHV,6.0,Gasoline,1.0,8-Speed Automatic,Laredo,SUV,4.0,Metallic,Global Black,Four-wheel Drive,1
+GMC,96410.0,Otro,8.0,Gasoline,0.0,Automatic,Denali,SUV,4.0,Summit White,Otro,Four-wheel Drive,1
+Dodge,46835.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+RAM,81663.0,24V DDI OHV Turbo Diesel,6.0,Diesel,10.0,6-Speed Automatic,Laramie,Pickup Truck,4.0,Silver,Black,Four-wheel Drive,1
+Nissan,46000.0,24V MPFI DOHC,6.0,Gasoline,3838.0,Automatic CVT,Platinum,SUV,4.0,White,Gray,All-wheel Drive,1
+Jeep,63862.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Bright White Clearcoat,Black,Rear-wheel Drive,1
+Ford,89978.0,32V DDI OHV Turbo Diesel,8.0,Diesel,15.0,10-Speed Automatic,Otro,Pickup Truck,4.0,Carbonized Gray Metallic,Black Onyx,Four-wheel Drive,1
+Hyundai,42230.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,Limited,SUV,4.0,White Pearl,Black,All-wheel Drive,1
+Jeep,42773.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,20.0,Automatic,Altitude,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+Jeep,37743.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive,1
+RAM,60904.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,532.0,Automatic,Tradesman,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive,1
+Hyundai,43419.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Otro,Pickup Truck,4.0,Atlas,Otro,All-wheel Drive,1
+Jeep,44022.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,12.0,Automatic,Altitude,SUV,4.0,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive,1
+Chevrolet,51695.0,c,0.0,Electric,4.0,1-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,38574.0,16V PDI DOHC Turbo,4.0,Gasoline,12.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Otro,Black,All-wheel Drive,1
+Nissan,48000.0,24V MPFI DOHC,6.0,Gasoline,87.0,Automatic CVT,Platinum,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Ford,53190.0,16V GDI DOHC Turbo,4.0,Gasoline,15.0,10-Speed Automatic,Otro,SUV,4.0,Star White,Ebony,Four-wheel Drive,1
+Volkswagen,32751.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,25.0,Otro,1.5T SE,SUV,4.0,Blue,Otro,All-wheel Drive,1
+Volkswagen,24348.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,13.0,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4.0,Pyrite Silver Metallic,Titan Black,Front-wheel Drive,1
+RAM,65221.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,344.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Dodge,39491.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T,SUV,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,30305.0,16V PDI DOHC,4.0,Gasoline,11.0,8-Speed Automatic,SEL,SUV,4.0,White Pearl,Black,Front-wheel Drive,1
+GMC,44120.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,0.0,Automatic,Denali,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Hyundai,33160.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Otro,Black,All-wheel Drive,1
+Ford,40940.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,10-Speed Automatic,XLT,SUV,4.0,Star White,Ebony,Rear-wheel Drive,1
+Jeep,34084.0,Otro,4.0,Gasoline,12.0,8-Speed Automatic,Limited,SUV,4.0,Baltic Gray Metallic Clearcoat,Black,Four-wheel Drive,1
+Chrysler,48705.0,24V MPFI DOHC,6.0,Gasoline,69.03305785123968,9-Speed Automatic,Otro,Passenger Van,4.0,Diamond Black,Black,All-wheel Drive,1
+Chevrolet,52190.0,c,0.0,Electric,6.0,1-Speed Automatic,Otro,SUV,4.0,Radiant Red,Black,All-wheel Drive,1
+RAM,58855.0,16V MPFI OHV,8.0,Gasoline,0.0,Automatic,Tradesman,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+Nissan,39867.0,24V MPFI DOHC,6.0,Gasoline,2.0,Automatic CVT,SV,SUV,4.0,White,Graphite,Front-wheel Drive,1
+Ford,53595.0,Otro,6.0,Otro,10.0,Automatic,Otro,Cargo Van,3.0,Oxford White,Otro,Rear-wheel Drive,1
+Jeep,59547.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,185.0,8-Speed Automatic,Trailhawk,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive,2
+Kia,49820.0,c,0.0,Electric,13.0,Automatic,GT,SUV,4.0,Otro,Black,All-wheel Drive,1
+Volkswagen,27175.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,5.0,8-Speed Automatic with Tiptronic,Otro,Sedan,4.0,Pyrite Silver Metallic,Titan Black,Front-wheel Drive,1
+Ford,47790.0,c,0.0,Electric,5.0,1-Speed Automatic,Premium,SUV,4.0,Otro,Black,All-wheel Drive,1
+Chevrolet,58610.0,16V GDI OHV,8.0,Gasoline,0.0,Automatic,Otro,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive,1
+Kia,29640.0,16V MPFI DOHC,4.0,Gasoline,16.0,Automatic CVT,EX,SUV,4.0,Otro,Black,All-wheel Drive,1
+Chevrolet,43727.0,24V GDI DOHC,6.0,Gasoline,9.0,9-Speed Automatic,Otro,SUV,4.0,Otro,Jet Black,All-wheel Drive,1
+GMC,35870.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,0.0,Automatic,Otro,SUV,4.0,Summit White,Otro,All-wheel Drive,1
+RAM,64670.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,15.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive,1
+Jeep,46973.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,10.0,Automatic,Otro,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive,1
+Jeep,54905.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,1.0,8-Speed Automatic,Trailhawk,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+Mazda,50915.0,16V GDI DOHC Hybrid,4.0,Hybrid,7.0,8-Speed Automatic,Preferred,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Latitude,SUV,4.0,Diamond Black,Black,Four-wheel Drive,1
+Dodge,46835.0,16V MPFI OHV,8.0,Gasoline,21.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Subaru,44354.0,16V GDI DOHC Turbo,4.0,Gasoline,69.03305785123966,Automatic CVT,Otro,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Hyundai,44195.0,c,0.0,Electric,14.0,1-Speed Automatic,Otro,SUV,4.0,Atlas,Gray,Rear-wheel Drive,1
+Audi,86670.0,c,0.0,Electric,5.0,Automatic,Otro,SUV,4.0,Glacier White Metallic,Otro,All-wheel Drive,1
+Volkswagen,24348.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,6.0,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4.0,Pure White,Titan Black,Front-wheel Drive,1
+Hyundai,38870.0,16V GDI DOHC Hybrid,4.0,Hybrid,14.0,6-Speed Automatic,Limited,Sedan,4.0,Otro,Otro,Front-wheel Drive,1
+Kia,52388.0,c Motor,0.0,Electric,1.0,1-Speed Automatic,Otro,SUV,4.0,Otro,Gray,Rear-wheel Drive,1
+Dodge,58709.0,16V MPFI OHV,8.0,Gasoline,15.0,8-Speed Automatic,R/T,SUV,4.0,Otro,Black,All-wheel Drive,1
+Dodge,42855.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,5.0,6-Speed Automatic,Otro,SUV,4.0,8 Ball,Black,All-wheel Drive,1
+Dodge,34990.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,GT,SUV,4.0,Otro,Black,All-wheel Drive,1
+Kia,34835.0,Otro,4.0,Hybrid,9.0,Automatic,EX,SUV,4.0,Otro,Black,All-wheel Drive,1
+GMC,35870.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,0.0,Automatic,Otro,SUV,4.0,Summit White,Otro,All-wheel Drive,1
+Ford,69955.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,8.0,10-Speed Automatic,XLT,SUV,4.0,Silver,Black Onyx,Four-wheel Drive,1
+Dodge,39581.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T,SUV,4.0,Blue Steel,Black,All-wheel Drive,1
+Volkswagen,49166.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Titan Black,All-wheel Drive,1
+Hyundai,55365.0,c,0.0,Electric,10.0,1-Speed Automatic,Limited,SUV,4.0,Otro,Black,Rear-wheel Drive,1
+Jeep,51360.0,24V MPFI DOHC,6.0,Gasoline,69.03305785123966,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Beige / Black,Rear-wheel Drive,1
+Hyundai,40474.0,Otro,4.0,Gasoline,5.0,Automatic,Limited,SUV,4.0,Otro,Gray,All-wheel Drive,1
+BMW,89450.0,24V GDI DOHC Turbo,6.0,Gasoline,10.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Jeep,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive,1
+Toyota,62341.0,Otro,6.0,Hybrid,4357.0,10-Speed Automatic,Limited,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+Hyundai,42015.0,c,0.0,Electric,7.0,1-Speed Automatic,SE,SUV,4.0,Black,Black,All-wheel Drive,1
+Nissan,24500.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,10.0,CVT,SV,SUV,4.0,Otro,Charcoal,Front-wheel Drive,1
+Buick,27075.0,12V GDI DOHC Turbo,3.0,Gasoline,6.0,6-Speed Automatic,Preferred,SUV,4.0,Otro,Ebony,Front-wheel Drive,1
+Nissan,35975.0,Otro,3.0,Gasoline,4.0,Automatic,SV,SUV,4.0,Gun Metallic,Charcoal,All-wheel Drive,1
+Jeep,63057.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,69.03305785123968,8-Speed Automatic,Base,SUV,4.0,Metallic,Black,Four-wheel Drive,1
+Nissan,36405.0,Otro,3.0,Gasoline,5.0,Automatic,SV,SUV,4.0,Otro,Charcoal,All-wheel Drive,1
+Jeep,86137.0,Otro,6.0,Gasoline,5.0,Automatic,Otro,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,1
+Kia,27969.0,Otro,4.0,Gasoline,0.0,8-Speed Automatic,S,SUV,4.0,Otro,Black,Front-wheel Drive,1
+RAM,63223.0,24V DDI OHV Turbo Diesel,6.0,Diesel,13.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Dodge,47785.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Nissan,46000.0,24V MPFI DOHC,6.0,Gasoline,5.0,Automatic CVT,Platinum,SUV,4.0,Otro,Otro,All-wheel Drive,1
+GMC,96410.0,Otro,8.0,Gasoline,0.0,Automatic,Denali,SUV,4.0,Summit White,Otro,Four-wheel Drive,1
+Nissan,41180.0,Otro,3.0,Gasoline,3.0,Automatic,Otro,SUV,4.0,Otro,Charcoal,All-wheel Drive,1
+Dodge,44720.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T,SUV,4.0,Blue Steel,Black,All-wheel Drive,1
+Jeep,49390.0,OHV,6.0,Gasoline,69.03305785123968,8-Speed Automatic,Limited,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive,1
+Jeep,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive,1
+Mercedes-Benz,76535.0,c,0.0,Electric,375.0,1-Speed Automatic,Base,Sedan,4.0,Polar White,Gray,Rear-wheel Drive,1
+Buick,31805.0,12V GDI DOHC Turbo,3.0,Gasoline,69.03305785123968,6-Speed Automatic,Otro,SUV,4.0,Otro,Ebony,Front-wheel Drive,1
+Dodge,44160.0,24V MPFI DOHC,6.0,Gasoline,12.0,8-Speed Automatic,GT,SUV,4.0,Otro,Black,Rear-wheel Drive,1
+Hyundai,28469.0,16V PDI DOHC,4.0,Gasoline,0.0,8-Speed Automatic,SEL,Sedan,4.0,White,Otro,All-wheel Drive,1
+RAM,58930.0,24V DDI OHV Turbo Diesel,6.0,Diesel,13.0,6-Speed Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+GMC,35236.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,9-Speed Automatic,Otro,SUV,4.0,Otro,Jet Black,All-wheel Drive,1
+Jeep,60555.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Diamond Black,Black,Rear-wheel Drive,1
+Ford,38740.0,16V GDI DOHC Turbo,4.0,Gasoline,69.03305785123966,10-Speed Automatic,Otro,Pickup Truck,4.0,Carbonized Gray Metallic,Ebony,Four-wheel Drive,1
+RAM,66334.0,Otro,6.0,Diesel,6.0,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Bright White Clearcoat,Black Interior Color,Four-wheel Drive,1
+Audi,73020.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,12.0,Otro,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+RAM,89555.0,24V DDI OHV Turbo Diesel,6.0,Diesel,12.0,Automatic,Laramie,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive,1
+RAM,65315.0,24V DDI OHV Turbo Diesel,6.0,Diesel,9.0,6-Speed Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Mazda,58599.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,8.0,Automatic,Premium Plus,SUV,4.0,Otro,Black,All-wheel Drive,1
+Ford,50473.0,c,0.0,Electric,12.0,1-Speed Automatic,GT,SUV,4.0,Otro,Gray,All-wheel Drive,2
+Dodge,47234.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,0.0,6-Speed Automatic,R/T Plus,SUV,4.0,Gold,Black,All-wheel Drive,1
+Chevrolet,44161.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,8-Speed Automatic,Otro,Pickup Truck,4.0,Black,Jet Black,Four-wheel Drive,1
+Chevrolet,49496.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Black,Jet Black,Four-wheel Drive,1
+Chevrolet,43475.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,Automatic,Otro,Pickup Truck,4.0,Black,Jet Black,Four-wheel Drive,1
+Dodge,36083.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,SXT,Sedan,4.0,White,Black,Rear-wheel Drive,2
+Chevrolet,54559.0,16V GDI OHV,8.0,Gasoline,148.0,Automatic,Otro,Pickup Truck,4.0,Otro,Jet Black,Four-wheel Drive,1
+Mercedes-Benz,60061.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,58.0,9-Speed Automatic,Otro,Cargo Van,3.0,Otro,Black,Rear-wheel Drive,1
+Jeep,28867.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,1.0,Automatic,Latitude,SUV,4.0,Baltic Gray Metallic Clearcoat,Black,Four-wheel Drive,1
+Honda,42005.0,16V GDI DOHC Hybrid,4.0,Hybrid,1.0,Automatic CVT,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,45005.0,c,0.0,Electric,12.0,Automatic,SEL,Sedan,4.0,White,Black,Rear-wheel Drive,1
+Hyundai,35864.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Amazon Gray,Black,All-wheel Drive,1
+Jeep,30000.0,Otro,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Otro,Otro,Four-wheel Drive,2
+Kia,34000.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,X-Line,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,29342.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,6.0,Automatic,Sport,SUV,4.0,Otro,Black,Four-wheel Drive,1
+Ford,55645.0,Otro,6.0,Otro,59.0,10-Speed Automatic,Base,Cargo Van,3.0,Otro,Ebony,All-wheel Drive,1
+Audi,83630.0,c,0.0,Electric,5.0,Automatic,Premium,SUV,4.0,Glacier White Metallic,Otro,All-wheel Drive,1
+Jeep,39714.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,14.0,Automatic,Laredo,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive,1
+Chevrolet,49628.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Radiant Red,Jet Black,Four-wheel Drive,1
+Hyundai,33089.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,25.0,6-Speed Automatic,Blue,SUV,4.0,Amazon Gray,Gray,All-wheel Drive,1
+Mercedes-Benz,79765.0,c,0.0,Electric,9.0,1-Speed Automatic,Base,Sedan,4.0,Otro,Gray,Rear-wheel Drive,1
+Dodge,65075.0,16V MPFI OHV,8.0,Gasoline,18.0,8-Speed Automatic,Otro,Sedan,4.0,Blue,Black,Rear-wheel Drive,2
+Jeep,38980.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,8-Speed Automatic,Limited,SUV,4.0,Diamond Black,Black,Four-wheel Drive,1
+Hyundai,49905.0,Otro,4.0,Gasoline,1.0,Automatic,Otro,SUV,5.0,Green,Black,All-wheel Drive,1
+Jeep,58235.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Automatic,Otro,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,1
+Volkswagen,27998.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Pyrite Silver Metallic,Black,All-wheel Drive,1
+Chevrolet,25515.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,8.0,Otro,Otro,SUV,4.0,Summit White,Medium Ash Gray,Front-wheel Drive,1
+Jeep,66960.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Rubicon,SUV,4.0,Otro,Black,Four-wheel Drive,1
+Mazda,53395.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Rhodium White Premium,Greige,All-wheel Drive,1
+Hyundai,61775.0,c,0.0,Electric,12.0,Automatic,Otro,SUV,4.0,Gold,Gray,All-wheel Drive,1
+RAM,53272.0,24V MPFI DOHC,6.0,Gasoline,1.0,9-Speed Automatic,High Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive,1
+Otro,51361.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Ebony,All-wheel Drive,1
+Chrysler,60600.0,Otro,6.0,Hybrid,10.0,Automatic CVT,Otro,Passenger Van,4.0,Bright White Clearcoat,Black,Front-wheel Drive,1
+Dodge,38575.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,GT,SUV,4.0,Gray,Black,All-wheel Drive,1
+Nissan,31225.0,16V GDI DOHC,4.0,Gasoline,6.0,Automatic CVT,Otro,Sedan,4.0,Black,Charcoal,Front-wheel Drive,1
+Hyundai,32520.0,16V GDI DOHC Hybrid,4.0,Hybrid,11.0,6-Speed Automatic,SEL,Sedan,4.0,Otro,Gray,Front-wheel Drive,1
+Dodge,35821.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,SXT,Sedan,4.0,Black,Black,Rear-wheel Drive,2
+Mazda,60200.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,33.0,Automatic,Base,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Mercedes-Benz,50202.98569969356,c,0.0,Electric,8.0,Automatic,Base 4MATIC,Sedan,4.0,Otro,Gray,All-wheel Drive,1
+Dodge,36532.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,14.0,Otro,GT AWD,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,61506.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Automatic,Otro,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+Mazda,59625.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,2.0,8-Speed Automatic,Base,SUV,4.0,Deep Crystal Blue Mica,Black,All-wheel Drive,1
+Mercedes-Benz,109545.0,c,0.0,Electric,10.0,1-Speed Automatic,Base 4MATIC,SUV,4.0,Black,Black,All-wheel Drive,1
+Dodge,35480.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,0.0,Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,31200.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,8-Speed Automatic,Latitude,SUV,4.0,Silver Zynith,Black,Four-wheel Drive,1
+Jeep,54835.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,11.0,Otro,Otro,SUV,4.0,Otro,Black,Four-wheel Drive,1
+Jeep,52115.0,24V MPFI DOHC,6.0,Gasoline,13.0,8-Speed Automatic,Limited,SUV,4.0,Metallic,Beige / Black,Four-wheel Drive,1
+Volkswagen,32011.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,11.0,Otro,1.5T SE,SUV,4.0,Pure White,Black,Front-wheel Drive,1
+RAM,53099.0,24V MPFI DOHC,6.0,Gasoline,30.0,9-Speed Automatic,High Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive,1
+Dodge,46835.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Volkswagen,30383.0,16V GDI DOHC Turbo,4.0,Gasoline,13.0,8-Speed Automatic,1.5T SE,SUV,4.0,Otro,Black,Front-wheel Drive,1
+Cadillac,46890.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,Luxury,SUV,4.0,Otro,Jet Black,Front-wheel Drive,1
+Jeep,37729.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,Laredo,SUV,4.0,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,1
+Jeep,53535.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,4.0,8-Speed Automatic,Sport,SUV,4.0,Anvil Clearcoat,Black,Four-wheel Drive,1
+Dodge,37490.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,SXT,Sedan,4.0,Green,Black,Rear-wheel Drive,2
+Dodge,44600.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T Plus,SUV,4.0,Blue,Black,All-wheel Drive,1
+Dodge,45038.0,24V MPFI DOHC,6.0,Gasoline,5.0,8-Speed Automatic,GT,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,60972.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,12.0,Automatic,Rubicon,SUV,4.0,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive,1
+Jeep,53796.0,24V MPFI DOHC,6.0,Gasoline,0.0,8-Speed Automatic,Rubicon,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,2
+Dodge,41497.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,11.0,6-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Volkswagen,25311.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,7-Speed DSGA? Automatic w/ 4MO,1.5T S,SUV,4.0,Pyrite Silver Metallic,Black,All-wheel Drive,1
+Dodge,35913.0,24V MPFI DOHC,6.0,Gasoline,15.0,8-Speed Automatic,SXT,Sedan,4.0,Blue,Black,Rear-wheel Drive,2
+INFINITI,48350.0,Otro,4.0,Gasoline,3.0,Otro,Otro,SUV,4.0,Otro,Otro,Front-wheel Drive,1
+Nissan,21000.0,16V MPFI DOHC,4.0,Gasoline,9.0,Automatic CVT,Otro,Sedan,4.0,Otro,Graphite,Front-wheel Drive,1
+Mercedes-Benz,90995.0,24V GDI DOHC Turbo,6.0,Gasoline,10.0,9-Speed Automatic,Base,SUV,4.0,Blue,Black,All-wheel Drive,1
+Mazda,56079.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,8-Speed Automatic,Premium,SUV,4.0,Otro,Black,All-wheel Drive,1
+Ford,52263.0,Otro,8.0,Gasoline,10.0,10-Speed Automatic,Otro,Pickup Truck,2.0,Otro,Otro,Four-wheel Drive,1
+Dodge,46835.0,16V MPFI OHV,8.0,Gasoline,29.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+Dodge,42991.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,14.0,6-Speed Automatic,R/T,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,54910.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,8-Speed Automatic,Trailhawk,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive,1
+Audi,56105.0,16V GDI DOHC Turbo,4.0,Gasoline,12.0,Otro,Otro,Hatchback,4.0,Otro,Black,All-wheel Drive,1
+Otro,64370.0,16V GDI DOHC Turbo,4.0,Gasoline,69.03305785123966,8-Speed Automatic,Otro,SUV,4.0,Otro,Black Onyx,All-wheel Drive,1
+Dodge,44790.0,24V MPFI DOHC,6.0,Gasoline,32.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Chevrolet,32580.0,Otro,3.0,Gasoline,0.0,9-Speed Automatic,RS,SUV,4.0,Otro,Otro,All-wheel Drive,1
+BMW,69685.0,c,0.0,Electric,5.0,1-Speed Automatic,Otro,Hatchback,4.0,Black,Otro,Rear-wheel Drive,1
+Hyundai,34330.0,16V PDI DOHC,4.0,Gasoline,11.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Atlas,Gray,All-wheel Drive,1
+Dodge,37430.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,9.0,Otro,GT AWD,SUV,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,42015.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,32925.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Otro,Black,All-wheel Drive,1
+Jeep,57870.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Sahara,SUV,4.0,Otro,Black,Four-wheel Drive,1
+Jeep,28265.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,8-Speed Automatic,Latitude,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Volkswagen,30618.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Pure White,Gray,All-wheel Drive,1
+Ford,31985.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,2.0,8-Speed Automatic,Active,SUV,4.0,Carbonized Gray Metallic,Otro,Front-wheel Drive,1
+Ford,35210.0,Otro,3.0,Gasoline,0.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Otro,Four-wheel Drive,1
+Hyundai,42455.0,Otro,4.0,Gasoline,1.0,Automatic,Otro,SUV,5.0,Otro,Black,All-wheel Drive,1
+Hyundai,51820.0,c,0.0,Electric,12.0,1-Speed Automatic,SEL,Sedan,4.0,Gold,Gray,All-wheel Drive,2
+Hyundai,49795.0,c,0.0,Electric,4.0,1-Speed Automatic,SEL,SUV,4.0,Atlas,Gray,Rear-wheel Drive,1
+Jeep,31721.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Dodge,44852.0,24V MPFI DOHC,6.0,Gasoline,13.0,8-Speed Automatic,GT,SUV,4.0,Otro,Black,All-wheel Drive,1
+Dodge,32485.0,Otro,4.0,Gasoline,48.0,Otro,GT AWD,SUV,4.0,Otro,Black,All-wheel Drive,1
+Dodge,46835.0,16V MPFI OHV,8.0,Gasoline,34.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Jeep,39370.0,Otro,6.0,Gasoline,0.0,8-Speed Automatic,Laredo,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Dodge,45844.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,1.0,6-Speed Automatic,R/T,SUV,4.0,Gray,Black,All-wheel Drive,1
+Jeep,78543.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,16.0,8-Speed Automatic,Series II,SUV,4.0,Riverrock Green,Global Black,Four-wheel Drive,1
+Hyundai,27080.0,Otro,4.0,Hybrid,13.0,Automatic,Blue,Sedan,4.0,Otro,Medium Gray,Front-wheel Drive,1
+RAM,83940.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,6.0,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+Volkswagen,48541.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Otro,All-wheel Drive,1
+RAM,81036.0,Otro,6.0,Diesel,0.0,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,White,Black,Four-wheel Drive,1
+Mazda,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,8.0,Automatic,Premium,SUV,4.0,Otro,Black,All-wheel Drive,1
+RAM,67562.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,13.0,Automatic,Otro,Pickup Truck,4.0,White,Black Interior Color,Four-wheel Drive,1
+Mazda,58399.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,Premium Plus,SUV,4.0,Rhodium White Premium,Black,All-wheel Drive,1
+Otro,73270.0,Otro,4.0,Hybrid,21.0,6-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+RAM,89040.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,5.0,Otro,Otro,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive,1
+Hyundai,52905.0,c,0.0,Electric,12.0,1-Speed Automatic,SEL,SUV,4.0,Blue,Black,All-wheel Drive,1
+Ford,46920.0,c,0.0,Electric,10.0,1-Speed Automatic,Premium,SUV,4.0,Otro,Black Onyx,All-wheel Drive,1
+Chevrolet,65175.0,Otro,6.0,Diesel,0.0,Automatic,Otro,Pickup Truck,4.0,Otro,Jet Black,Four-wheel Drive,1
+Nissan,20389.0,16V MPFI DOHC,4.0,Gasoline,11.0,Automatic CVT,Otro,Sedan,4.0,Gun Metallic,Gray,Front-wheel Drive,1
+Mazda,50599.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,Preferred,SUV,4.0,Rhodium White Premium,Greige,All-wheel Drive,1
+Ford,46935.0,c,0.0,Electric,11.0,1-Speed Automatic,GT,SUV,4.0,Black,Black,All-wheel Drive,2
+Hyundai,38100.0,Otro,4.0,Gasoline,1.0,Automatic,Otro,SUV,5.0,White,Gray,All-wheel Drive,1
+Kia,31190.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,EX,SUV,4.0,Otro,Black,Front-wheel Drive,1
+Jeep,50755.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,69.03305785123968,8-Speed Automatic,Sport,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Hyundai,42201.0,c,0.0,Electric,8.0,Automatic,SEL,SUV,4.0,Gold,Gray,Rear-wheel Drive,1
+Hyundai,35404.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SEL Convenience,SUV,4.0,White,Black,All-wheel Drive,1
+Hyundai,35656.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,9.0,6-Speed Automatic,N Line,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,32660.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,8-Speed Automatic,Latitude,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Hyundai,50850.0,Otro,0.0,Electric,10.0,Automatic,SE,Sedan,4.0,Otro,Black,All-wheel Drive,1
+Jeep,61860.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Rubicon,SUV,4.0,Anvil Clearcoat,Black,Four-wheel Drive,1
+Volkswagen,25895.0,16V GDI DOHC Turbo,4.0,Gasoline,69.03305785123968,7-Speed DSGA? Automatic w/ 4MO,1.5T S,SUV,4.0,Otro,Black,All-wheel Drive,1
+Nissan,26600.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,SR,SUV,4.0,Otro,Charcoal,Front-wheel Drive,1
+BMW,91825.0,c,0.0,Electric,7.0,1-Speed Automatic,Otro,Sedan,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,37325.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Otro,Gray,All-wheel Drive,1
+Jeep,52642.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive,1
+Jeep,40235.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,Limited,SUV,4.0,Otro,Black,Four-wheel Drive,1
+Dodge,46835.0,16V MPFI OHV,8.0,Gasoline,5.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Hyundai,42064.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Phantom Black,Black,All-wheel Drive,1
+Hyundai,39832.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,Limited,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,65928.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,69.03305785123968,8-Speed Automatic,Base,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Dodge,41036.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,5.0,6-Speed Automatic,Otro,SUV,4.0,8 Ball,Black,All-wheel Drive,1
+Volkswagen,33331.0,16V GDI DOHC Turbo,4.0,Gasoline,13.0,7-Speed DSGA? Automatic w/ 4MO,Otro,SUV,4.0,Pure White,Black,All-wheel Drive,1
+Dodge,51835.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,33.0,6-Speed Automatic,R/T Plus,SUV,4.0,8 BALL,Black,All-wheel Drive,1
+GMC,44120.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,0.0,Automatic,Denali,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Hyundai,42466.0,c,0.0,Electric,16.0,1-Speed Automatic,SE,SUV,4.0,Atlas,Gray,All-wheel Drive,1
+Dodge,47340.0,16V MPFI OHV,8.0,Gasoline,34.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Jeep,54209.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Limited,SUV,4.0,Metallic,Global Black,Four-wheel Drive,1
+RAM,86505.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,49.0,Automatic,Laramie,Pickup Truck,4.0,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,1
+Dodge,48595.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4.0,8 Ball,Black,All-wheel Drive,1
+Mazda,38040.0,16V GDI DOHC,4.0,Gasoline,3.0,6-Speed Automatic,Otro,Otro,2.0,Otro,Black,Rear-wheel Drive,2
+Dodge,46835.0,16V MPFI OHV,8.0,Gasoline,21.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Jeep,52567.0,OHV,6.0,Gasoline,246.0,8-Speed Automatic,Limited,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,1
+Dodge,50202.98569969357,16V MPFI OHV,8.0,Gasoline,28.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,1
+Dodge,47340.0,16V MPFI OHV,8.0,Gasoline,33.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+Jeep,87488.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,22.0,8-Speed Automatic,Series II,SUV,4.0,Riverrock Green,Global Black,Four-wheel Drive,1
+Hyundai,43904.0,c,0.0,Electric,6.0,1-Speed Automatic,SE,SUV,4.0,Blue,Gray,All-wheel Drive,1
+Chevrolet,55090.0,c,0.0,Electric,9.0,1-Speed Automatic,RS,SUV,4.0,Radiant Red,Black,All-wheel Drive,1
+Mercedes-Benz,110395.0,c,0.0,Electric,5.0,Automatic,Base 4MATIC,Sedan,4.0,Otro,Black,All-wheel Drive,1
+Jeep,44737.0,OHV,6.0,Gasoline,6.0,8-Speed Automatic,Laredo,SUV,4.0,Metallic,Global Black,Four-wheel Drive,1
+Volkswagen,41693.0,Otro,0.0,Electric,0.0,Otro,Otro,SUV,4.0,Otro,Otro,Rear-wheel Drive,1
+Hyundai,41995.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Otro,Black,All-wheel Drive,1
+Honda,38855.0,Otro,4.0,Hybrid,6.0,Automatic,Otro,SUV,4.0,Otro,Black,Front-wheel Drive,1
+Jeep,58909.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,34.0,Automatic,Trailhawk,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+RAM,65350.0,16V MPFI OHV,8.0,Gasoline,0.0,8-Speed Automatic,Big Horn,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+Jeep,49411.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,6.0,Automatic,Altitude,SUV,4.0,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive,1
+Jeep,72908.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,69.03305785123966,8-Speed Automatic,Series II,SUV,4.0,Diamond Black,Black,Four-wheel Drive,1
+Jeep,37105.0,16V GDI DOHC Turbo,4.0,Gasoline,69.03305785123968,8-Speed Automatic,Trailhawk,SUV,4.0,Otro,Otro,Four-wheel Drive,2
+Dodge,50590.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,R/T Plus,SUV,4.0,8 BALL,Black,All-wheel Drive,1
+Chevrolet,70190.0,Otro,8.0,Diesel,5.0,Automatic,LT,Pickup Truck,4.0,Otro,Otro,Four-wheel Drive,1
+Chevrolet,25515.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,5.0,Otro,Otro,SUV,4.0,Otro,Medium Ash Gray,Front-wheel Drive,1
+Jeep,59542.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,Rubicon,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+RAM,53445.0,24V MPFI DOHC,6.0,Gasoline,6.0,9-Speed Automatic,High Roof,Cargo Van,3.0,Otro,Black,Front-wheel Drive,1
+RAM,79675.0,24V DDI OHV Turbo Diesel,6.0,Diesel,17.0,6-Speed Automatic,Laramie,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive,1
+GMC,87075.0,der,8.0,Otro,9.0,Otro,Otro,Pickup Truck,4.0,Otro,Otro,Four-wheel Drive,1
+Ford,34799.0,12V PDI DOHC Turbo,3.0,Gasoline,3.0,8-Speed Automatic,Active,SUV,4.0,Carbonized Gray Metallic,Ebony,All-wheel Drive,1
+RAM,67125.0,24V DDI OHV Turbo Diesel,6.0,Diesel,5.0,6-Speed Automatic,Laramie,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Jeep,46721.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Laredo,SUV,4.0,Metallic,Global Black,Four-wheel Drive,1
+Kia,43348.0,c,0.0,Electric,16.0,Automatic,Wind,SUV,4.0,Blue,Black,All-wheel Drive,1
+Jeep,56119.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,8-Speed Automatic,Base,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,1
+Volkswagen,28193.0,16V GDI DOHC Turbo,4.0,Gasoline,4.0,8-Speed Automatic,1.5T SE,SUV,4.0,Otro,Black,Front-wheel Drive,1
+Mazda,58949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,26.0,Automatic,Premium Plus,SUV,4.0,Otro,Black,All-wheel Drive,1
+Mazda,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,9.0,Automatic,Premium,SUV,4.0,Otro,Black,All-wheel Drive,1
+Mazda,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,9.0,Automatic,Premium,SUV,4.0,Red,Greige,All-wheel Drive,1
+Subaru,31042.0,16V GDI DOHC,4.0,Gasoline,5.0,Automatic CVT,Premium,Sedan,4.0,Otro,Gray,All-wheel Drive,1
+Dodge,34000.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,4440.0,Otro,GT AWD,SUV,4.0,Otro,Black,All-wheel Drive,1
+Mazda,54449.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,10.0,Automatic,Premium,SUV,4.0,Otro,Greige,All-wheel Drive,1
+Ford,77885.0,16V MPFI OHV,8.0,Gasoline,105.0,10-Speed Automatic,Otro,Pickup Truck,4.0,Black,Black Onyx,Four-wheel Drive,1
+Chrysler,50202.98569969357,24V MPFI DOHC,6.0,Gasoline,10.0,8-Speed Automatic,Otro,Sedan,4.0,Velvet Red Pearlcoat,Black,Rear-wheel Drive,2
+Jeep,31535.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Latitude,SUV,4.0,Silver Zynith,Black,Four-wheel Drive,1
+Mazda,50349.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,37.0,Automatic,Preferred,SUV,4.0,Otro,Black,All-wheel Drive,1
+BMW,73670.0,c,0.0,Electric,5.0,1-Speed Automatic,Otro,Hatchback,4.0,White,Otro,All-wheel Drive,1
+Mazda,50675.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,8-Speed Automatic,Preferred,SUV,4.0,Otro,Black,All-wheel Drive,1
+RAM,64516.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,14.0,Automatic,Tradesman,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive,1
+Dodge,36480.0,Otro,4.0,Gasoline,23.0,Automatic,GT,SUV,4.0,Otro,Black,All-wheel Drive,1
+Audi,89780.0,c,0.0,Electric,5.0,Automatic,Premium,SUV,4.0,Glacier White Metallic,Black,All-wheel Drive,1
+Dodge,47340.0,16V MPFI OHV,8.0,Gasoline,33.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+BMW,110445.0,c,0.0,Electric,5.0,1-Speed Automatic,Otro,Sedan,4.0,Otro,Black,Rear-wheel Drive,1
+Volkswagen,26104.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,9.0,8-Speed Automatic with Tiptronic,Otro,Sedan,4.0,Pyrite Silver Metallic,Titan Black,Front-wheel Drive,1
+Dodge,42790.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,R/T,SUV,4.0,Blue Steel,Black,All-wheel Drive,1
+Dodge,46835.0,16V MPFI OHV,8.0,Gasoline,30.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+Dodge,47340.0,16V MPFI OHV,8.0,Gasoline,35.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+BMW,54545.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,Otro,Sedan,4.0,Otro,Black,All-wheel Drive,1
+RAM,65774.0,24V DDI OHV Turbo Diesel,6.0,Diesel,13.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,1
+Nissan,34305.0,Otro,3.0,Gasoline,4.0,Automatic,SV,SUV,4.0,Otro,Charcoal,All-wheel Drive,1
+Dodge,44621.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,0.0,6-Speed Automatic,R/T Plus,SUV,4.0,Otro,Black,All-wheel Drive,1
+Dodge,39763.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,0.0,6-Speed Automatic,R/T,SUV,4.0,Gold,Black,All-wheel Drive,1
+RAM,67237.0,Otro,6.0,Diesel,6.0,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Black Interior Color,Four-wheel Drive,1
+Honda,36900.0,16V GDI DOHC Hybrid,4.0,Hybrid,1.0,Automatic CVT,Sport,SUV,4.0,Otro,Black,All-wheel Drive,1
+Ford,90350.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,89.0,10-Speed Automatic,Limited,SUV,4.0,Star White,Black Onyx,Four-wheel Drive,1
+Ford,83910.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,65.0,10-Speed Automatic,Otro,SUV,4.0,Green,Black Onyx,Four-wheel Drive,1
+Audi,84465.0,c,0.0,Electric,5.0,Automatic,Premium,SUV,4.0,Glacier White Metallic,Otro,All-wheel Drive,1
+Chevrolet,49944.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Radiant Red,Jet Black,Four-wheel Drive,1
+Kia,32433.0,Otro,4.0,Gasoline,0.0,8-Speed Automatic,S,SUV,4.0,White Pearl,Black,All-wheel Drive,1
+Kia,33095.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SX,SUV,4.0,Ebony Black,Black,Front-wheel Drive,1
+Kia,39990.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Otro,62145.0,16V GDI DOHC Turbo,4.0,Gasoline,19.0,9-Speed Automatic,Otro,SUV,4.0,Otro,Ebony,All-wheel Drive,1
+Honda,48364.0,24V GDI SOHC,6.0,Gasoline,4.0,10-Speed Automatic,Otro,Passenger Van,4.0,Otro,Gray,Front-wheel Drive,1
+RAM,83374.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,5.0,Automatic,Otro,Pickup Truck,4.0,Diamond Black Crystal Pearlcoat,Otro,Four-wheel Drive,1
+Chevrolet,31222.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,2.0,Otro,Otro,SUV,4.0,Summit White,Otro,Front-wheel Drive,1
+GMC,85845.0,32V DDI OHV Turbo Diesel,8.0,Diesel,2.0,10-Speed Automatic,Denali,Pickup Truck,4.0,White Frost Tri-Coat,Jet Black,Four-wheel Drive,1
+Kia,30034.0,Otro,4.0,Gasoline,0.0,8-Speed Automatic,S,SUV,4.0,Gray,Otro,Front-wheel Drive,1
+Dodge,44170.0,24V MPFI DOHC,6.0,Gasoline,35.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+Audi,69995.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,12.0,Otro,Otro,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Volkswagen,27554.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,7.0,8-Speed Automatic with Tiptronic,Otro,Sedan,4.0,Otro,Titan Black,Front-wheel Drive,1
+Nissan,45716.0,Otro,8.0,Gasoline,10.0,Automatic,SV,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+Audi,153690.0,Otro,0.0,Electric,10.0,1-Speed Automatic,Otro,Sedan,4.0,Otro,Black,All-wheel Drive,1
+Ford,42715.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,8-Speed Automatic,ST-Line,SUV,4.0,Black,Ebony,All-wheel Drive,1
+Hyundai,36970.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Atlas,Black,All-wheel Drive,1
+Volkswagen,26329.0,16V GDI DOHC Turbo,4.0,Gasoline,25.0,8-Speed Automatic,1.5T SE,Sedan,4.0,Otro,Black,Front-wheel Drive,1
+Chevrolet,30101.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,6-Speed Automatic,1LT,SUV,4.0,Summit White,Jet Black,All-wheel Drive,1
+Mercedes-Benz,50202.98569969356,c,0.0,Electric,10.0,Automatic,Base 4MATIC,Sedan,4.0,Otro,Black,All-wheel Drive,1
+Jeep,54899.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,8-Speed Automatic,Base,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+Kia,32198.0,Otro,4.0,Gasoline,0.0,8-Speed Automatic,S,SUV,4.0,Otro,Black,All-wheel Drive,1
+Nissan,54585.0,Otro,8.0,Gasoline,10.0,Automatic,SV,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+Jeep,35999.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive,1
+Hyundai,36882.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,6-Speed Automatic,SEL Convenience,SUV,4.0,White Pearl,Gray,All-wheel Drive,1
+Dodge,47340.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+INFINITI,45055.0,Otro,4.0,Gasoline,25.0,Otro,Otro,SUV,4.0,Otro,Otro,Front-wheel Drive,1
+RAM,69697.0,24V DDI OHV Turbo Diesel,6.0,Diesel,2.0,Automatic,Big Horn,Pickup Truck,4.0,White,Otro,Four-wheel Drive,1
+Ford,49285.0,c,0.0,Electric,5.0,1-Speed Automatic,Premium,SUV,4.0,Green,Black,All-wheel Drive,1
+Dodge,47785.0,16V MPFI OHV,8.0,Gasoline,34.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Jeep,51083.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Otro,Otro,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Kia,41528.0,c,0.0,Electric,14.0,Automatic,Wind,SUV,4.0,Gray,Black,All-wheel Drive,1
+Nissan,27400.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,SR,SUV,4.0,Otro,Charcoal,Front-wheel Drive,1
+Mazda,52445.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Deep Crystal Blue Mica,Greige,All-wheel Drive,1
+Hyundai,34600.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,Blue,SUV,4.0,White Pearl,Gray,All-wheel Drive,1
+Dodge,47165.0,16V MPFI OHV,8.0,Gasoline,39.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Jeep,34084.0,Otro,4.0,Gasoline,12.0,8-Speed Automatic,Limited,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive,1
+Jeep,50184.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive,1
+Hyundai,45842.0,c,0.0,Electric,5.0,1-Speed Automatic,SEL,SUV,4.0,Atlas,Black,All-wheel Drive,1
+Hyundai,40380.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Otro,Pickup Truck,4.0,Phantom Black,Black,All-wheel Drive,1
+Otro,55353.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,9-Speed Automatic,Otro,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Mercedes-Benz,72357.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,9.0,9-Speed Automatic,Otro,Cargo Van,3.0,Otro,Black,Rear-wheel Drive,1
+Hyundai,34492.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,Blue,SUV,4.0,White Pearl,Black,All-wheel Drive,1
+Hyundai,36000.0,16V PDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Atlas,Black,All-wheel Drive,1
+Jeep,35999.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive,1
+Jeep,53160.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Midnight Sky,Black,Four-wheel Drive,1
+Jeep,59116.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Automatic,Otro,SUV,4.0,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,1
+Jeep,67510.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,Rubicon,SUV,4.0,Otro,Black,Four-wheel Drive,1
+Honda,48187.0,24V GDI SOHC,6.0,Gasoline,4.0,10-Speed Automatic,Otro,Passenger Van,4.0,Otro,Otro,Front-wheel Drive,1
+Volkswagen,25923.0,16V GDI DOHC Turbo,4.0,Gasoline,25.0,8-Speed Automatic,1.5T SE,Sedan,4.0,Otro,Black,Front-wheel Drive,1
+Jeep,50702.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Metallic,Black,Four-wheel Drive,1
+Otro,75595.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,6.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Charcoal,All-wheel Drive,1
+Jeep,51845.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,7.0,8-Speed Automatic,Sport,SUV,4.0,Otro,Black,Four-wheel Drive,1
+Cadillac,60915.0,24V GDI DOHC,6.0,Gasoline,31.0,9-Speed Automatic,Otro,SUV,4.0,Otro,Jet Black,Front-wheel Drive,1
+RAM,71167.0,24V DDI OHV Turbo Diesel,6.0,Diesel,9.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Hyundai,41975.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Phantom Black,Black,All-wheel Drive,1
+Jeep,38481.0,16V GDI DOHC Turbo,4.0,Gasoline,69.03305785123968,8-Speed Automatic,Limited,SUV,4.0,Silver Zynith,Otro,Four-wheel Drive,1
+Hyundai,32520.0,16V GDI DOHC Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SEL,Sedan,4.0,Red,Gray,Front-wheel Drive,1
+Kia,48861.0,Otro,4.0,Gasoline,16.0,Automatic,SX,SUV,4.0,Otro,Black,All-wheel Drive,2
+Chevrolet,31537.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,6-Speed Automatic,Otro,SUV,4.0,Summit White,Medium Ash Gray,All-wheel Drive,1
+Jeep,47175.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,0.0,Automatic,Altitude,SUV,4.0,Otro,Global Black,Four-wheel Drive,1
+Dodge,51585.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,R/T Plus,SUV,4.0,8 BALL,Black,All-wheel Drive,1
+Jeep,86097.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,9711.0,8-Speed Automatic,Otro,SUV,4.0,Riverrock Green,Otro,Four-wheel Drive,2
+Mercedes-Benz,50202.98569969357,c,0.0,Electric,4.0,Automatic,Base 4MATIC,Sedan,4.0,Polar White,Otro,All-wheel Drive,1
+Nissan,37946.0,24V GDI DOHC,6.0,Gasoline,9.0,9-Speed Automatic,SV,Pickup Truck,4.0,Otro,Charcoal,Rear-wheel Drive,1
+Chevrolet,31301.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,6-Speed Automatic,1LT,SUV,4.0,Otro,Jet Black,All-wheel Drive,1
+RAM,63010.0,16V MPFI OHV,8.0,Gasoline,95.0,8-Speed Automatic,Tradesman,Pickup Truck,2.0,Bright White Clearcoat,Black,Four-wheel Drive,2
+Nissan,50030.0,Otro,8.0,Gasoline,1.0,Automatic,SV,Pickup Truck,4.0,Gun Metallic,Black,Four-wheel Drive,1
+GMC,42990.0,Otro,6.0,Gasoline,0.0,8-Speed Automatic,Otro,Cargo Van,3.0,Summit White,Otro,Rear-wheel Drive,1
+Chevrolet,32635.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,6-Speed Automatic,RS,SUV,4.0,Otro,Jet Black,Front-wheel Drive,1
+Nissan,46672.0,Otro,8.0,Gasoline,1.0,Automatic,SV,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,2
+Honda,27450.0,Otro,4.0,Gasoline,10.0,Automatic,LX,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Kia,34310.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,13.0,Otro,Otro,SUV,4.0,Otro,Medium Gray,Front-wheel Drive,1
+Buick,36190.0,12V GDI DOHC Turbo,3.0,Gasoline,7.0,9-Speed Automatic,Otro,SUV,4.0,Otro,Ebony,All-wheel Drive,1
+Kia,52388.0,c Motor,0.0,Electric,1.0,1-Speed Automatic,Otro,SUV,4.0,Otro,Gray,Rear-wheel Drive,1
+Mazda,57849.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,Premium Plus,SUV,4.0,Otro,Black,All-wheel Drive,1
+Ford,44615.0,Otro,4.0,Gasoline,9.0,8-Speed Automatic,SEL,SUV,4.0,Agate Black Metallic,Ebony,All-wheel Drive,1
+Kia,34985.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SX,SUV,4.0,Otro,Black,Front-wheel Drive,1
+Jeep,28867.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,10.0,Automatic,Latitude,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive,1
+RAM,53890.0,24V MPFI DOHC,6.0,Gasoline,3.0,9-Speed Automatic,High Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive,1
+Hyundai,48510.0,c,0.0,Electric,12.0,Automatic,SEL,Sedan,4.0,White,Gray,All-wheel Drive,1
+Kia,31190.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,EX,SUV,4.0,Otro,Black,Front-wheel Drive,1
+Otro,81525.0,c,0.0,Electric,153.0,1-Speed Automatic,Base,Sedan,4.0,Otro,Black,All-wheel Drive,2
+Hyundai,52515.0,c,0.0,Electric,5.0,1-Speed Automatic,Limited,SUV,4.0,Gold,Black,All-wheel Drive,1
+Hyundai,35364.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,33.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Phantom Black,Black,All-wheel Drive,1
+Hyundai,35885.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,15.0,6-Speed Automatic,N Line,SUV,4.0,Black Pearl,Black,All-wheel Drive,1
+Mercedes-Benz,85630.0,24V GDI DOHC Turbo,6.0,Gasoline,7.0,9-Speed Automatic,4MATIC,SUV,4.0,Black,Black,All-wheel Drive,1
+Jeep,47530.0,OHV,6.0,Gasoline,5.0,8-Speed Automatic,Laredo,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive,1
+Mazda,58399.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,Premium Plus,SUV,4.0,Rhodium White Premium,Black,All-wheel Drive,1
+Jeep,75888.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,69.03305785123966,8-Speed Automatic,Series II,SUV,4.0,Riverrock Green,Black,Four-wheel Drive,1
+Chevrolet,49632.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Radiant Red,Jet Black,Four-wheel Drive,1
+Mazda,55439.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,8-Speed Automatic,Premium,SUV,4.0,Otro,Black,All-wheel Drive,1
+Volkswagen,30618.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Dodge,35821.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,SXT,Sedan,4.0,Black,Black,Rear-wheel Drive,2
+Dodge,36083.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,SXT,Sedan,4.0,White,Black,Rear-wheel Drive,2
+Mercedes-Benz,98180.0,24V GDI DOHC Turbo,6.0,Gasoline,5.0,9-Speed Automatic,4MATIC,SUV,4.0,Polar White,Beige / Black,All-wheel Drive,1
+Dodge,44604.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T Plus,SUV,4.0,8 BALL,Black,All-wheel Drive,1
+Jeep,32269.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive,1
+Hyundai,42466.0,c,0.0,Electric,7.0,1-Speed Automatic,SE,SUV,4.0,Atlas,Black,All-wheel Drive,1
+Dodge,45051.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T Plus,SUV,4.0,Gray,Black,All-wheel Drive,1
+Otro,57508.0,16V GDI DOHC Turbo,4.0,Gasoline,19.0,9-Speed Automatic,Otro,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Ford,51803.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,1.0,Automatic,Base,Cargo Van,3.0,Oxford White,Otro,Rear-wheel Drive,1
+Mercedes-Benz,114160.0,c,0.0,Electric,5.0,1-Speed Automatic,Base 4MATIC,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,52631.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Limited,SUV,4.0,Metallic,Global Black,Four-wheel Drive,1
+RAM,50202.98569969356,16V MPFI OHV,8.0,Gasoline,98.0,8-Speed Automatic,Tradesman,Pickup Truck,2.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Chevrolet,24680.0,12V GDI DOHC Turbo,3.0,Gasoline,5.0,6-Speed Automatic,LT,SUV,4.0,Otro,Jet Black,Front-wheel Drive,1
+BMW,96895.0,c,0.0,Electric,37.0,1-Speed Automatic,Otro,Sedan,4.0,Otro,Black,All-wheel Drive,1
+Jeep,54490.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,2.0,Automatic,Otro,SUV,4.0,Otro,Black,Four-wheel Drive,1
+RAM,80095.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,20.0,Automatic,Laramie,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+Honda,44350.0,Otro,6.0,Gasoline,0.0,Automatic,Otro,Passenger Van,4.0,Otro,Black,Front-wheel Drive,1
+RAM,66375.0,Otro,6.0,Gasoline,17.0,Automatic,High Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive,2
+BMW,93335.0,c,0.0,Electric,3.0,1-Speed Automatic,Otro,Sedan,4.0,Otro,Black,All-wheel Drive,1
+Chevrolet,57635.0,Otro,8.0,Gasoline,5.0,Automatic,Otro,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive,1
+Chrysler,45300.0,Otro,6.0,Gasoline,25.0,Otro,Otro,Otro,4.0,Otro,Otro,Front-wheel Drive,2
+Jeep,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,8-Speed Automatic,Latitude,SUV,4.0,Diamond Black,Black,Four-wheel Drive,1
+Dodge,34637.0,16V GDI DOHC Turbo,4.0,Gasoline,54.0,9-Speed Automatic,GT,SUV,4.0,Gray,Black,All-wheel Drive,1
+Jeep,50184.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Jeep,87190.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,12.0,8-Speed Automatic,Series II,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,1
+Mazda,55399.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,2.0,8-Speed Automatic,Base,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Hyundai,41391.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,7.0,6-Speed Automatic,Limited,SUV,4.0,White Pearl,Gray,All-wheel Drive,1
+Ford,30020.0,Otro,3.0,Gasoline,0.0,8-Speed Automatic,Otro,SUV,4.0,Oxford White,Ebony,Four-wheel Drive,1
+Chrysler,50202.98569969356,24V MPFI DOHC,6.0,Gasoline,10.0,8-Speed Automatic,Otro,Sedan,4.0,Otro,Black,Rear-wheel Drive,2
+Dodge,46835.0,16V MPFI OHV,8.0,Gasoline,19.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+BMW,74695.0,c,0.0,Electric,7.0,1-Speed Automatic,Otro,Sedan,4.0,Otro,Black,Rear-wheel Drive,1
+Jeep,66360.0,Otro,6.0,Gasoline,27.0,Automatic,Overland,SUV,4.0,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,1
+Nissan,26500.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,SR,SUV,4.0,Otro,Charcoal,Front-wheel Drive,1
+Dodge,53995.0,16V MPFI OHV,8.0,Gasoline,12.0,8-Speed Automatic,R/T,SUV,4.0,Otro,Black,All-wheel Drive,2
+Otro,77645.0,24V GDI DOHC Turbo,6.0,Gasoline,9.0,8-Speed Automatic,Otro,SUV,2.0,Otro,Ebony,Four-wheel Drive,1
+Jeep,58648.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Otro,Sahara,SUV,4.0,Otro,Black,Four-wheel Drive,1
+Chrysler,46450.0,24V MPFI DOHC,6.0,Gasoline,42.0,9-Speed Automatic,Otro,Passenger Van,4.0,Bright White Clearcoat,Black,All-wheel Drive,1
+Ford,41195.0,16V GDI DOHC Turbo,4.0,Gasoline,5.0,8-Speed Automatic,SEL,SUV,4.0,Agate Black Metallic,Ebony,All-wheel Drive,1
+Jeep,46791.0,24V MPFI DOHC,6.0,Gasoline,12.0,Automatic,Sport,Pickup Truck,4.0,Black Clearcoat,Black,Four-wheel Drive,1
+Audi,106215.0,c,0.0,Electric,12.0,Automatic,Premium Plus,SUV,4.0,Otro,Black,All-wheel Drive,1
+Dodge,47165.0,16V MPFI OHV,8.0,Gasoline,31.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+Audi,78695.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,12.0,Otro,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+BMW,115445.0,Otro,8.0,Gasoline,447.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,34182.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Dodge,38546.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,73.0,Otro,Otro,SUV,4.0,8 Ball,Black,All-wheel Drive,1
+RAM,61865.0,16V MPFI OHV,8.0,Gasoline,0.0,8-Speed Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Jeep,26860.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,8-Speed Automatic,Latitude,SUV,4.0,Silver Zynith,Black,Four-wheel Drive,1
+Jeep,29826.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,8-Speed Automatic,Otro,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Dodge,42597.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T,SUV,4.0,Gray,Black,All-wheel Drive,1
+Kia,37135.0,16V GDI DOHC Hybrid,4.0,Hybrid,399.0,Automatic,Otro,SUV,4.0,Otro,Medium Gray,Front-wheel Drive,1
+Dodge,52180.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,R/T Plus,SUV,4.0,Blue Steel,Black,All-wheel Drive,1
+Dodge,30900.0,16V GDI DOHC Turbo,4.0,Gasoline,69.03305785123968,9-Speed Automatic,GT,SUV,4.0,8 BALL,Black,All-wheel Drive,1
+Jeep,61506.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Automatic,Otro,SUV,4.0,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,1
+Buick,37135.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,9-Speed Automatic,Preferred,SUV,4.0,White Frost Tri-Coat,Ebony,All-wheel Drive,2
+Ford,33590.0,der,4.0,Hybrid,0.0,CVT,ST-Line,SUV,4.0,Otro,Otro,Front-wheel Drive,1
+Ford,41765.0,der,4.0,Hybrid,0.0,CVT,S,SUV,4.0,Otro,Ebony,Front-wheel Drive,1
+Chevrolet,65416.0,Otro,8.0,Gasoline,5.0,Otro,Otro,Pickup Truck,4.0,Otro,Jet Black,Four-wheel Drive,1
+Hyundai,43299.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Otro,Pickup Truck,4.0,Phantom Black,Otro,All-wheel Drive,1
+Dodge,46835.0,16V MPFI OHV,8.0,Gasoline,5.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Jeep,47744.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,12.0,Automatic,Limited,SUV,4.0,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive,1
+Jeep,53455.0,Otro,6.0,Gasoline,0.0,8-Speed Automatic,Limited,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,1
+Ford,52853.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,0.0,Automatic,Base,Cargo Van,3.0,Oxford White,Otro,Rear-wheel Drive,1
+Ford,69035.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,9.0,10-Speed Automatic,Otro,SUV,4.0,Otro,Otro,Four-wheel Drive,1
+Dodge,32485.0,Otro,4.0,Gasoline,48.0,Otro,GT AWD,SUV,4.0,Otro,Black,All-wheel Drive,1
+Kia,31860.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,17.0,Otro,EX,SUV,4.0,Otro,Medium Gray,Front-wheel Drive,1
+Subaru,44354.0,16V GDI DOHC Turbo,4.0,Gasoline,69.03305785123966,Automatic CVT,Otro,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Hyundai,27080.0,Otro,4.0,Hybrid,14.0,Automatic,Blue,Sedan,4.0,Otro,Medium Gray,Front-wheel Drive,1
+Kia,43348.0,c,0.0,Electric,16.0,Automatic,Wind,SUV,4.0,Blue,Black,All-wheel Drive,1
+Ford,46775.0,c,0.0,Electric,9.0,1-Speed Automatic,GT,SUV,4.0,Carbonized Gray Metallic,Black Onyx,All-wheel Drive,2
+RAM,64214.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,6.0,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Bright White Clearcoat,Black Interior Color,Four-wheel Drive,1
+RAM,82523.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,8.0,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,1
+Mercedes-Benz,117985.0,c,0.0,Electric,1.0,Automatic,Base 4MATIC,Sedan,4.0,Otro,Black,All-wheel Drive,1
+Chevrolet,49496.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive,1
+Chevrolet,43135.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,Automatic,LT,Pickup Truck,4.0,Black,Jet Black,Four-wheel Drive,1
+Jeep,28867.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,8.0,Automatic,Latitude,SUV,4.0,Otro,Black,Four-wheel Drive,1
+Kia,35490.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,X-Line,SUV,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,33109.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,15.0,6-Speed Automatic,Blue,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Mazda,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,8.0,Automatic,Premium,SUV,4.0,Gray,Black,All-wheel Drive,1
+Hyundai,39832.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,25.0,6-Speed Automatic,Limited,SUV,4.0,Black Pearl,Gray,All-wheel Drive,1
+Hyundai,51765.0,c,0.0,Electric,7.0,1-Speed Automatic,Limited,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Ford,45780.0,c,0.0,Electric,10.0,1-Speed Automatic,Otro,SUV,4.0,Otro,Black Onyx,All-wheel Drive,1
+Dodge,37490.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,SXT,Sedan,4.0,Green,Black,Rear-wheel Drive,2
+RAM,46670.0,16V MPFI OHV,8.0,Gasoline,5.0,8-Speed Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Ford,88135.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,6.0,10-Speed Automatic,Platinum,SUV,4.0,Black,Black Onyx,Four-wheel Drive,1
+Hyundai,45289.0,c,0.0,Electric,5.0,1-Speed Automatic,SEL,SUV,4.0,Black,Black,All-wheel Drive,1
+Ford,50202.98569969356,16V GDI DOHC Turbo,4.0,Gasoline,823.0,8-Speed Automatic,SE,SUV,4.0,Oxford White,Ebony,All-wheel Drive,1
+Jeep,54210.0,24V MPFI DOHC,6.0,Gasoline,0.0,8-Speed Automatic,Rubicon,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,2
+Jeep,43585.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,5.0,Automatic,Altitude,SUV,4.0,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive,1
+Chrysler,46163.0,24V MPFI DOHC,6.0,Gasoline,69.03305785123966,9-Speed Automatic,Otro,Passenger Van,4.0,Bright White Clearcoat,Black,Front-wheel Drive,1
+Jeep,49550.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Sport,SUV,4.0,Anvil Clearcoat,Black,Four-wheel Drive,1
+Volkswagen,22260.0,16V GDI DOHC Turbo,4.0,Gasoline,28.0,8-Speed Automatic,1.5T S,Sedan,4.0,Pyrite Silver Metallic,Titan Black,Front-wheel Drive,1
+Dodge,50202.98569969356,24V MPFI DOHC,6.0,Gasoline,21.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,1
+Jeep,47744.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,9.0,Automatic,Limited,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,1
+Jeep,54899.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,12.0,8-Speed Automatic,Base,SUV,4.0,Otro,Global Black,Four-wheel Drive,1
+RAM,84860.0,24V DDI OHV Turbo Diesel,6.0,Diesel,6.0,6-Speed Automatic,Laramie,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive,1
+RAM,71846.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,5.0,Automatic,Tradesman,Pickup Truck,4.0,Diamond Black Crystal Pearlcoat,Black,Four-wheel Drive,1
+Dodge,46490.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,21.0,6-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Ford,51785.0,c,0.0,Electric,12.0,1-Speed Automatic,Premium,SUV,4.0,Star White,Black,All-wheel Drive,1
+Chevrolet,49180.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive,1
+Hyundai,50945.0,c,0.0,Electric,1.0,Automatic,SEL,Sedan,4.0,White,Black,All-wheel Drive,1
+Volkswagen,35683.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,5.0,Otro,Otro,SUV,4.0,Blue,Otro,All-wheel Drive,1
+Ford,84190.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,6.0,10-Speed Automatic,Limited,SUV,4.0,White,Black Onyx,Four-wheel Drive,1
+Hyundai,38870.0,16V GDI DOHC Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,Limited,Sedan,4.0,Otro,Black,Front-wheel Drive,1
+RAM,71999.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,252.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,2
+Jeep,47080.0,OHV,6.0,Gasoline,6.0,8-Speed Automatic,Laredo,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Jeep,54226.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,2.0,Automatic,Otro,SUV,4.0,Black Clearcoat,Black,Four-wheel Drive,1
+Jeep,33255.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,Latitude,SUV,4.0,Otro,Black,Four-wheel Drive,1
+Hyundai,45373.0,c,0.0,Electric,3.0,1-Speed Automatic,SEL,SUV,4.0,Blue,Black,All-wheel Drive,1
+Jeep,48612.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,Otro,SUV,4.0,Black Clearcoat,Black,Four-wheel Drive,1
+BMW,90945.0,Otro,6.0,Gasoline,4.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,0
+Dodge,47340.0,16V MPFI OHV,8.0,Gasoline,5.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+Hyundai,37100.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Phantom Black,Gray,All-wheel Drive,1
+Mazda,59205.0,16V GDI DOHC Hybrid,4.0,Hybrid,3.0,8-Speed Automatic,Premium Plus,SUV,4.0,Otro,Black,All-wheel Drive,1
+Ford,31390.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,13.0,Automatic,Otro,SUV,4.0,Carbonized Gray Metallic,Ebony,Four-wheel Drive,1
+Hyundai,46905.0,24V GDI DOHC,6.0,Gasoline,25.0,8-Speed Automatic,SEL,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Hyundai,36499.0,16V PDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Phantom Black,Black,All-wheel Drive,1
+BMW,79300.0,c,0.0,Electric,5.0,1-Speed Automatic,Otro,Hatchback,4.0,Blue,Otro,All-wheel Drive,1
+RAM,74990.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,15.0,Automatic,Otro,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+Mazda,55399.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,2.0,8-Speed Automatic,Base,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Honda,40355.0,16V GDI DOHC Hybrid,4.0,Hybrid,68.0,Automatic CVT,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,43000.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,16.0,Otro,Laredo,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,2
+Dodge,50202.98569969357,16V GDI DOHC Turbo,4.0,Gasoline,8.0,9-Speed Automatic,GT,SUV,4.0,Blue,Black,All-wheel Drive,1
+Hyundai,38870.0,16V GDI DOHC Hybrid,4.0,Hybrid,9.0,6-Speed Automatic,Limited,Sedan,4.0,Red,Black,Front-wheel Drive,1
+BMW,103045.0,24V GDI DOHC Turbo,6.0,Gasoline,19.0,8-Speed Automatic,Otro,Sedan,4.0,Otro,Black,Rear-wheel Drive,1
+Volkswagen,28997.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Otro,Black,All-wheel Drive,1
+Volkswagen,29066.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,5.0,8-Speed Automatic with Tiptronic,1.5T SE,SUV,4.0,Pure White,Black,Front-wheel Drive,1
+RAM,50202.98569969356,24V DDI OHV Turbo Diesel,6.0,Diesel,23.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Diamond Black,Black,Four-wheel Drive,1
+GMC,33092.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,9-Speed Automatic,Otro,SUV,4.0,Otro,Jet Black,All-wheel Drive,1
+Hyundai,47100.0,24V GDI DOHC,6.0,Gasoline,26.0,8-Speed Automatic,SEL,SUV,4.0,Otro,Black,All-wheel Drive,1
+Volkswagen,32406.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,11.0,Otro,1.5T SE,SUV,4.0,Deep Black Pearl,Black,Front-wheel Drive,1
+Ford,40145.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,10-Speed Automatic,XLT,SUV,4.0,Carbonized Gray Metallic,Ebony,Rear-wheel Drive,1
+Nissan,24600.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,SV,SUV,4.0,Otro,Charcoal,Front-wheel Drive,1
+Jeep,69201.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,8-Speed Automatic,Otro,SUV,4.0,Velvet Red Pearlcoat,Otro,Four-wheel Drive,1
+Dodge,46835.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+Nissan,17994.0,16V MPFI DOHC,4.0,Gasoline,8.0,Automatic CVT,S,Sedan,4.0,Electric Blue Metallic,Charcoal,Front-wheel Drive,1
+Ford,40630.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Jeep,49075.0,OHV,6.0,Gasoline,1.0,8-Speed Automatic,Laredo,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive,1
+Volkswagen,23160.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,7.0,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4.0,Deep Black Pearl,Titan Black,Front-wheel Drive,1
+Dodge,46835.0,16V MPFI OHV,8.0,Gasoline,31.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+Ford,52180.0,c,0.0,Electric,25.0,1-Speed Automatic,Premium,SUV,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,59255.0,c,0.0,Electric,10.0,1-Speed Automatic,Limited,SUV,4.0,Blue,Gray,All-wheel Drive,1
+Ford,51803.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,1.0,Automatic,Base,Cargo Van,3.0,Oxford White,Otro,Rear-wheel Drive,1
+Jeep,67784.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,35.0,8-Speed Automatic,Trailhawk,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive,1
+Hyundai,40449.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Otro,Pickup Truck,4.0,Otro,Black,All-wheel Drive,1
+Chevrolet,30188.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,3.0,Otro,1LT,SUV,4.0,Otro,Medium Ash Gray,Front-wheel Drive,1
+Mazda,59420.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,Automatic,Base,SUV,4.0,Otro,Black,All-wheel Drive,1
+Mazda,60080.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Deep Crystal Blue Mica,Black,All-wheel Drive,1
+Buick,42785.0,16V GDI DOHC Turbo,4.0,Gasoline,13.0,9-Speed Automatic,Otro,SUV,4.0,Otro,Ebony,All-wheel Drive,2
+Audi,84530.0,c,0.0,Electric,5.0,Automatic,Premium,SUV,4.0,Glacier White Metallic,Otro,All-wheel Drive,1
+Dodge,47280.0,16V MPFI OHV,8.0,Gasoline,13.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+Jeep,30525.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive,1
+Honda,44850.0,24V GDI SOHC,6.0,Gasoline,3.0,9-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Cadillac,83665.0,c Motor,0.0,Electric,728.0,Automatic,Otro,SUV,4.0,Otro,Otro,Rear-wheel Drive,1
+Nissan,47105.0,Otro,8.0,Gasoline,5.0,Automatic,SV,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+Jeep,38736.0,Otro,4.0,Gasoline,12.0,8-Speed Automatic,Limited,SUV,4.0,Otro,Black,Four-wheel Drive,1
+Jeep,28265.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Latitude,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Jeep,58230.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,17.0,8-Speed Automatic,Sahara,SUV,4.0,Anvil Clearcoat,Black,Four-wheel Drive,1
+Jeep,67190.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,12.0,8-Speed Automatic,Rubicon,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Hyundai,45738.0,c,0.0,Electric,5.0,1-Speed Automatic,SEL,SUV,4.0,Atlas,Gray,All-wheel Drive,1
+Ford,30278.0,der,3.0,Gasoline,0.0,Otro,Active,SUV,4.0,Otro,Ebony,Front-wheel Drive,1
+Ford,34572.0,12V PDI DOHC Turbo,3.0,Gasoline,10.0,8-Speed Automatic,ST-Line,SUV,4.0,Star White,Ebony,All-wheel Drive,1
+Jeep,66960.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Rubicon,SUV,4.0,Black Clearcoat,Black,Four-wheel Drive,1
+Jeep,31535.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive,1
+Chevrolet,30955.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,3.0,Automatic,Otro,SUV,4.0,Summit White,Medium Ash Gray,All-wheel Drive,1
+Dodge,34698.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,GT,SUV,4.0,Gold,Black,All-wheel Drive,1
+Ford,32138.0,12V PDI DOHC Turbo,3.0,Gasoline,10.0,8-Speed Automatic,ST-Line,SUV,4.0,Otro,Ebony,All-wheel Drive,1
+Ford,61248.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,0.0,Automatic,Base,Cargo Van,3.0,Oxford White,Gray,Rear-wheel Drive,1
+Jeep,40925.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,0.0,Automatic,Laredo,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+Chevrolet,76475.0,16V GDI OHV,8.0,Gasoline,2.0,10-Speed Automatic,Otro,Pickup Truck,4.0,Summit White,Gray,Four-wheel Drive,1
+Chevrolet,49180.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive,1
+Ford,45525.0,c,0.0,Electric,10.0,1-Speed Automatic,Premium,SUV,4.0,Gray,Gray,All-wheel Drive,2
+Jeep,65360.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,0.0,Automatic,Otro,SUV,4.0,Diamond Black Crystal Pearlcoat,Otro,Four-wheel Drive,1
+Chevrolet,47650.0,16V GDI OHV,8.0,Gasoline,5.0,10-Speed Automatic,Otro,Pickup Truck,4.0,Summit White,Black,Four-wheel Drive,1
+Honda,41705.0,24V GDI SOHC,6.0,Gasoline,4.0,10-Speed Automatic,Otro,Passenger Van,4.0,Otro,Gray,Front-wheel Drive,1
+Hyundai,54495.0,c,0.0,Electric,10.0,1-Speed Automatic,Otro,SUV,4.0,Gold,Gray,All-wheel Drive,1
+Hyundai,30335.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,Automatic,Limited,Sedan,4.0,Otro,Otro,Front-wheel Drive,1
+Hyundai,33695.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,6-Speed Automatic,Blue,SUV,4.0,White Pearl,Black,All-wheel Drive,1
+Volkswagen,29374.0,16V GDI DOHC Turbo,4.0,Gasoline,28.0,8-Speed Automatic,Otro,Sedan,4.0,Otro,Otro,Front-wheel Drive,1
+Jeep,51350.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,69.03305785123966,8-Speed Automatic,Sport,SUV,4.0,Anvil Clearcoat,Black,Four-wheel Drive,1
+Hyundai,35744.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,15.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Black Pearl,Gray,All-wheel Drive,1
+Jeep,63715.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,69.03305785123968,8-Speed Automatic,Sahara,SUV,4.0,Otro,Black,Four-wheel Drive,2
+Hyundai,25975.0,16V GDI DOHC Hybrid,4.0,Hybrid,15.0,Otro,Blue,Sedan,4.0,Otro,Black,Front-wheel Drive,1
+Hyundai,39997.0,c,0.0,Electric,27.0,1-Speed Automatic,SEL,Sedan,4.0,Otro,Black,All-wheel Drive,2
+Toyota,68256.0,Otro,6.0,Hybrid,10.0,10-Speed Automatic,Limited,Pickup Truck,4.0,Otro,Otro,Four-wheel Drive,1
+RAM,67749.0,24V MPFI DOHC,6.0,Gasoline,181.0,9-Speed Automatic,Base,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive,1
+Jeep,49735.0,Otro,6.0,Gasoline,0.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Otro,Four-wheel Drive,1
+Dodge,49885.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,2.0,6-Speed Automatic,R/T Plus,SUV,4.0,Gold,Black,All-wheel Drive,1
+Toyota,30499.0,16V PDI DOHC,4.0,Gasoline,1.0,Automatic CVT,Otro,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Kia,41991.0,c,0.0,Electric,14.0,Automatic,Wind,SUV,4.0,Otro,Black,All-wheel Drive,1
+Ford,40145.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,10-Speed Automatic,XLT,SUV,4.0,Otro,Ebony,Rear-wheel Drive,1
+Mazda,54939.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,3.0,Automatic,Premium,SUV,4.0,Otro,Greige,All-wheel Drive,1
+Jeep,83845.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,69.03305785123968,8-Speed Automatic,Series II,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Dodge,46835.0,16V MPFI OHV,8.0,Gasoline,23.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+Jeep,124250.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,0.0,8-Speed Automatic,Otro,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,1
+Ford,49785.0,c,0.0,Electric,5.0,1-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Cadillac,47225.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,5.0,9-Speed Automatic,Luxury,SUV,4.0,Otro,Jet Black,All-wheel Drive,1
+Hyundai,31610.0,16V PDI DOHC,4.0,Gasoline,3.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Otro,Black,All-wheel Drive,1
+Toyota,72977.0,Otro,6.0,Hybrid,7.0,10-Speed Automatic,Otro,Pickup Truck,4.0,Otro,Otro,Four-wheel Drive,1
+Dodge,36734.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,14.0,Otro,GT AWD,SUV,4.0,Otro,Black,All-wheel Drive,1
+RAM,61330.0,24V DDI OHV Turbo Diesel,6.0,Diesel,6.0,6-Speed Automatic,Tradesman,Pickup Truck,2.0,Otro,Black,Four-wheel Drive,1
+Hyundai,32009.0,16V MPFI DOHC,4.0,Gasoline,1.0,Automatic CVT,SEL,SUV,4.0,Atlas,Black,All-wheel Drive,1
+Chevrolet,49229.0,16V GDI OHV,8.0,Gasoline,17.0,Automatic,LT,Pickup Truck,4.0,Black,Jet Black,Four-wheel Drive,1
+INFINITI,54200.0,16V PDI DOHC Turbo,4.0,Gasoline,0.0,Automatic CVT,Otro,SUV,4.0,Otro,Graphite,All-wheel Drive,2
+Jeep,25999.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,14.0,Automatic,Sport,SUV,4.0,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,2
+Mazda,56995.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,30.0,Automatic,Base,SUV,4.0,Rhodium White Premium,Black,All-wheel Drive,1
+Chevrolet,34472.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,6-Speed Automatic,1LT,SUV,4.0,Radiant Red,Jet Black,All-wheel Drive,1
+Nissan,25410.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SR,SUV,4.0,Otro,Charcoal,Front-wheel Drive,1
+Dodge,50202.98569969356,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,18.0,6-Speed Automatic,R/T,SUV,4.0,Otro,Black,All-wheel Drive,1
+Dodge,49885.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,69.03305785123968,6-Speed Automatic,R/T Plus,SUV,4.0,Blue Steel,Black,All-wheel Drive,1
+Toyota,22623.0,16V PDI DOHC,4.0,Gasoline,69.03305785123966,Automatic CVT,Otro,Sedan,4.0,Silver,Black,Front-wheel Drive,1
+Hyundai,45830.0,c,0.0,Electric,0.0,Automatic,SEL,SUV,4.0,Atlas,Gray,All-wheel Drive,1
+Volkswagen,29895.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,10.0,8-Speed Automatic with Tiptronic,Otro,Sedan,4.0,Deep Black Pearl,Titan Black,Front-wheel Drive,1
+Hyundai,44713.0,c,0.0,Electric,13.0,1-Speed Automatic,SEL,SUV,4.0,Atlas,Gray,All-wheel Drive,1
+RAM,68095.0,24V MPFI DOHC,6.0,Gasoline,186.0,9-Speed Automatic,Base,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive,1
+Volkswagen,24348.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,7.0,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4.0,Pure White,Titan Black,Front-wheel Drive,1
+RAM,65260.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,15.0,Automatic,Tradesman,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive,1
+GMC,40980.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,9-Speed Automatic,Denali,SUV,4.0,White Frost Tri-Coat,Otro,All-wheel Drive,1
+Honda,36900.0,16V GDI DOHC Hybrid,4.0,Hybrid,1.0,Automatic CVT,Sport,SUV,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,37275.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Amazon Gray,Gray,All-wheel Drive,1
+RAM,72294.0,24V DDI OHV Turbo Diesel,6.0,Diesel,33.0,Automatic,Laramie,Pickup Truck,4.0,Diamond Black,Black,Four-wheel Drive,1
+Mazda,51625.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Deep Crystal Blue Mica,Black,All-wheel Drive,1
+Hyundai,30829.0,16V GDI DOHC Turbo,4.0,Gasoline,15.0,8-Speed Automatic,Limited,SUV,4.0,Otro,Black,Front-wheel Drive,1
+Dodge,44826.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T Plus,SUV,4.0,Otro,Black,All-wheel Drive,1
+Dodge,38122.0,16V GDI DOHC Turbo,4.0,Gasoline,18.0,9-Speed Automatic,GT,SUV,4.0,Blue Steel,Black,All-wheel Drive,1
+Jeep,47451.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,3.0,Automatic,Altitude,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive,1
+Jeep,58840.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,4.0,8-Speed Automatic,Sahara,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive,1
+Dodge,32837.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,10.0,Automatic,GT AWD,SUV,4.0,8 Ball,Black,All-wheel Drive,1
+Ford,31390.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,9.0,Automatic,Otro,SUV,4.0,Otro,Otro,Four-wheel Drive,1
+Chrysler,54403.0,24V MPFI DOHC,6.0,Gasoline,14.0,9-Speed Automatic,Otro,Passenger Van,4.0,Diamond Black,Black,All-wheel Drive,1
+Toyota,71146.0,Otro,6.0,Hybrid,10.0,10-Speed Automatic,Platinum,Pickup Truck,4.0,Otro,Black,Rear-wheel Drive,1
+Jeep,84935.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,1.0,8-Speed Automatic,Series II,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,1
+Ford,52495.0,Otro,6.0,Gasoline,26.0,10-Speed Automatic,XLT,Pickup Truck,4.0,Oxford White,Black,Four-wheel Drive,2
+RAM,61481.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,15.0,Otro,Otro,Pickup Truck,4.0,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive,1
+Mazda,51700.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Deep Crystal Blue Mica,Black,All-wheel Drive,1
+Chevrolet,42947.0,16V GDI DOHC Turbo,4.0,Gasoline,5.0,8-Speed Automatic,Otro,Pickup Truck,4.0,Red,Black,Rear-wheel Drive,1
+Dodge,34329.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,6.0,Automatic,GT AWD,SUV,4.0,Otro,Black,All-wheel Drive,1
+RAM,62154.0,16V MPFI OHV,8.0,Gasoline,197.0,8-Speed Automatic,Tradesman,Pickup Truck,2.0,Bright White Clearcoat,Otro,Four-wheel Drive,1
+Dodge,35913.0,24V MPFI DOHC,6.0,Gasoline,15.0,8-Speed Automatic,SXT,Sedan,4.0,Blue,Black,Rear-wheel Drive,2
+Audi,39375.0,16V GDI DOHC Turbo,4.0,Gasoline,76.0,Otro,Premium,Sedan,4.0,Otro,Black,Front-wheel Drive,1
+Jeep,65295.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,26.0,8-Speed Automatic,Rubicon,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive,1
+Jeep,64930.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,12.0,8-Speed Automatic,Rubicon,SUV,4.0,Black Clearcoat,Black,Four-wheel Drive,1
+Ford,46540.0,c,0.0,Electric,6.0,1-Speed Automatic,Premium,SUV,4.0,Otro,Black Onyx,All-wheel Drive,2
+Mazda,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,3.0,Automatic,Premium,SUV,4.0,Otro,Black,All-wheel Drive,1
+Dodge,47142.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,0.0,6-Speed Automatic,R/T Plus,SUV,4.0,Gray,Black,All-wheel Drive,1
+Hyundai,41955.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Atlas,Black,All-wheel Drive,1
+Ford,36860.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,8.0,Otro,Active,SUV,4.0,Otro,Ebony,All-wheel Drive,1
+RAM,76300.0,24V DDI OHV Turbo Diesel,6.0,Diesel,6.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Diamond Black,Black,Four-wheel Drive,1
+RAM,68095.0,24V MPFI DOHC,6.0,Gasoline,188.0,9-Speed Automatic,Base,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive,1
+Ford,45605.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,8.0,Automatic,Otro,Pickup Truck,4.0,Oxford White,Black,Four-wheel Drive,1
+Nissan,24305.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,S,SUV,4.0,Gun Metallic,Charcoal,Front-wheel Drive,1
+Ford,46870.0,16V GDI DOHC Turbo,4.0,Gasoline,2500.0,10-Speed Automatic,XLT,SUV,4.0,Star White,Otro,Rear-wheel Drive,1
+Hyundai,33840.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,Limited,SUV,4.0,Otro,Black,All-wheel Drive,1
+Chevrolet,50058.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Radiant Red,Jet Black,Four-wheel Drive,1
+Hyundai,33005.0,16V GDI DOHC Hybrid,4.0,Hybrid,13.0,6-Speed Automatic,SEL,Sedan,4.0,White,Black,Front-wheel Drive,1
+Mercedes-Benz,62295.0,Otro,4.0,Diesel,8.0,Automatic,High Roof,Cargo Van,3.0,Otro,Black,Rear-wheel Drive,1
+GMC,90220.0,32V DDI OHV Turbo Diesel,8.0,Diesel,0.0,10-Speed Automatic,Denali,Pickup Truck,4.0,Otro,Jet Black,Four-wheel Drive,1
+Hyundai,50202.98569969357,16V PDI DOHC Turbo,4.0,Gasoline,13.0,8-Speed Automatic with Auto-Shift,Otro,Pickup Truck,4.0,Atlas,Black,All-wheel Drive,1
+Jeep,33696.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Jeep,54641.0,24V MPFI DOHC,6.0,Gasoline,23.0,8-Speed Automatic,Limited,SUV,4.0,Diamond Black,Beige / Black,Rear-wheel Drive,1
+Cadillac,60115.0,c,0.0,Electric,1.0,1-Speed Automatic,Luxury,SUV,4.0,Otro,Black,Rear-wheel Drive,1
+Hyundai,32750.0,16V PDI DOHC,4.0,Gasoline,3425.0,8-Speed Automatic,SEL,SUV,4.0,White Pearl,Gray,Front-wheel Drive,1
+Mercedes-Benz,50202.98569969356,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,Base 4MATIC,SUV,4.0,Black,Black,All-wheel Drive,1
+Mazda,50595.0,16V GDI DOHC Hybrid,4.0,Hybrid,1.0,8-Speed Automatic,Preferred,SUV,4.0,Otro,Black,All-wheel Drive,1
+Ford,53915.0,Otro,4.0,Gasoline,8.0,10-Speed Automatic,Platinum,SUV,4.0,Otro,Otro,Rear-wheel Drive,0
+Jeep,77473.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,14.0,8-Speed Automatic,Base,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+INFINITI,49404.0,Otro,4.0,Gasoline,7.0,Otro,Otro,SUV,4.0,Otro,Otro,Front-wheel Drive,1
+Hyundai,30870.0,16V GDI DOHC Hybrid,4.0,Hybrid,9.0,Automatic,Limited,Sedan,4.0,White,Black,Front-wheel Drive,1
+Buick,56872.0,24V GDI DOHC,6.0,Gasoline,0.0,9-Speed Automatic,Premium,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Jeep,34730.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive,1
+Chrysler,55183.0,24V MPFI DOHC,6.0,Gasoline,13.0,9-Speed Automatic,Limited,Passenger Van,4.0,Bright White Clearcoat,Black,All-wheel Drive,1
+Hyundai,32625.0,16V PDI DOHC,4.0,Gasoline,2077.0,8-Speed Automatic,SEL,SUV,4.0,White Pearl,Gray,Front-wheel Drive,1
+Nissan,20849.0,16V MPFI DOHC,4.0,Gasoline,6.0,Automatic CVT,S,Sedan,4.0,Otro,Charcoal,Front-wheel Drive,1
+Audi,52405.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,Otro,Otro,Hatchback,4.0,Glacier White Metallic,Black,All-wheel Drive,1
+RAM,67159.0,24V DDI OHV Turbo Diesel,6.0,Diesel,21.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Ford,40260.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,8-Speed Automatic,SE,SUV,4.0,Carbonized Gray Metallic,Ebony,All-wheel Drive,1
+Mercedes-Benz,95230.0,24V GDI DOHC Turbo,6.0,Gasoline,8.0,9-Speed Automatic,4MATIC,SUV,4.0,Polar White,Otro,All-wheel Drive,1
+Hyundai,35835.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Black Pearl,Black,All-wheel Drive,1
+Hyundai,35775.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Amazon Gray,Gray,All-wheel Drive,1
+RAM,72600.0,24V DDI OHV Turbo Diesel,6.0,Diesel,6.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Chevrolet,47410.0,16V GDI OHV,8.0,Gasoline,5.0,10-Speed Automatic,Otro,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive,1
+Kia,30935.0,16V GDI DOHC Hybrid,4.0,Hybrid,11.0,6-Speed Automatic,EX,SUV,4.0,Otro,Charcoal,Front-wheel Drive,1
+Jeep,27087.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,8-Speed Automatic,Sport,SUV,4.0,Diamond Black,Black,Four-wheel Drive,1
+Ford,50202.98569969356,16V GDI DOHC Turbo,4.0,Gasoline,5.0,8-Speed Automatic,ST-Line,SUV,4.0,Otro,Ebony,All-wheel Drive,1
+RAM,78895.0,Otro,6.0,Diesel,7.0,Otro,Big Horn,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Ford,44710.0,16V GDI DOHC Turbo,4.0,Gasoline,48.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Nissan,21637.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,4.0,Automatic,SV,Sedan,4.0,Gun Metallic,Charcoal,Front-wheel Drive,1
+Jeep,50923.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,4.0,Automatic,Limited,SUV,4.0,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,1
+Nissan,21889.0,16V MPFI DOHC,4.0,Gasoline,6.0,Automatic CVT,Otro,Sedan,4.0,Electric Blue Metallic,Gray,Front-wheel Drive,1
+Hyundai,29182.0,16V MPFI DOHC,4.0,Gasoline,0.0,Automatic CVT,SEL,SUV,4.0,Otro,Black,Front-wheel Drive,1
+Nissan,21123.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,6.0,Otro,SR,SUV,4.0,Electric Blue Metallic,Charcoal,Front-wheel Drive,1
+RAM,63518.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,24.0,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Black Interior Color,Four-wheel Drive,1
+RAM,79934.0,24V DDI OHV Turbo Diesel,6.0,Diesel,22.0,Automatic,Laramie,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive,1
+Dodge,47340.0,16V MPFI OHV,8.0,Gasoline,22.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Dodge,47785.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Dodge,65075.0,16V MPFI OHV,8.0,Gasoline,18.0,8-Speed Automatic,Otro,Sedan,4.0,Blue,Black,Rear-wheel Drive,2
+Jeep,46243.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,175.0,Automatic,Altitude,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,1
+Dodge,42876.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,147.0,6-Speed Automatic,R/T,SUV,4.0,8 BALL,Black,All-wheel Drive,1
+GMC,102287.0,32V DDI OHV Turbo Diesel,8.0,Diesel,4.0,10-Speed Automatic,Denali,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive,1
+Jeep,55020.0,OHV,6.0,Gasoline,5.0,8-Speed Automatic,Limited,SUV,4.0,Metallic,Global Black,Four-wheel Drive,1
+Jeep,40344.0,OHV,6.0,Gasoline,6.0,8-Speed Automatic,Laredo,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Hyundai,33491.0,16V GDI DOHC Turbo,4.0,Gasoline,12.0,8-Speed Automatic,N Line,SUV,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,40754.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,12.0,Automatic,Limited,SUV,4.0,Black Pearl,Black,All-wheel Drive,1
+RAM,83640.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,6.0,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Red,Black,Four-wheel Drive,1
+Hyundai,46246.0,c,0.0,Electric,7.0,1-Speed Automatic,SEL,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Toyota,50209.0,Otro,4.0,Hybrid,0.0,Automatic CVT,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+RAM,69720.0,16V MPFI OHV,8.0,Gasoline,0.0,8-Speed Automatic,Big Horn,Pickup Truck,4.0,Diamond Black,Black,Four-wheel Drive,1
+Chevrolet,88478.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,Otro,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive,1
+Hyundai,35389.0,16V GDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic,Limited,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Hyundai,36600.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,12.0,Automatic,N Line,SUV,4.0,Black Pearl,Otro,All-wheel Drive,1
+Jeep,110150.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,650.0,8-Speed Automatic,Series II,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,2
+Jeep,67105.0,Otro,6.0,Gasoline,3.0,Automatic,Overland,SUV,4.0,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive,1
+Hyundai,36600.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,10.0,Automatic,N Line,SUV,4.0,Otro,Otro,All-wheel Drive,1
+BMW,72435.0,c,0.0,Electric,5.0,1-Speed Automatic,Otro,Hatchback,4.0,White,Otro,All-wheel Drive,1
+Mazda,50955.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,0.0,Automatic,Preferred,SUV,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,40434.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Otro,Pickup Truck,4.0,Otro,Black,All-wheel Drive,1
+Kia,30740.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,EX,SUV,4.0,Black,Black,Front-wheel Drive,1
+Hyundai,59255.0,c,0.0,Electric,10.0,1-Speed Automatic,Limited,SUV,4.0,Black,Gray,All-wheel Drive,1
+Cadillac,75090.0,c Motor,0.0,Electric,9.0,Automatic,Otro,SUV,4.0,Otro,Otro,Rear-wheel Drive,1
+Chevrolet,54190.0,16V GDI OHV,8.0,Gasoline,5.0,10-Speed Automatic,Otro,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+GMC,47763.0,16V GDI OHV,8.0,Gasoline,0.0,10-Speed Automatic,Otro,Pickup Truck,2.0,Summit White,Jet Black,Rear-wheel Drive,1
+RAM,68600.0,24V DDI OHV Turbo Diesel,6.0,Diesel,0.0,6-Speed Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Otro,Four-wheel Drive,1
+Hyundai,53820.0,Otro,0.0,Electric,129.0,Automatic,SE,Sedan,4.0,Otro,Gray,All-wheel Drive,2
+Mercedes-Benz,74290.0,24V GDI DOHC Turbo,6.0,Gasoline,6.0,9-Speed Automatic,4MATIC,SUV,4.0,Polar White,Black,All-wheel Drive,1
+Jeep,33668.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,Otro,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive,1
+Dodge,47785.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Jeep,89595.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,1.0,8-Speed Automatic,Otro,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive,1
+Ford,55485.0,c,0.0,Electric,3.0,1-Speed Automatic,Premium,SUV,4.0,Star White,Gray,All-wheel Drive,1
+Dodge,43524.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,Otro,SUV,4.0,8 Ball,Black,All-wheel Drive,1
+Ford,33071.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,4.0,8-Speed Automatic,Active,SUV,4.0,Oxford White,Otro,All-wheel Drive,1
+Hyundai,30490.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,Otro,Pickup Truck,4.0,Atlas,Gray,All-wheel Drive,1
+RAM,61006.0,24V MPFI DOHC,6.0,Gasoline,5.0,9-Speed Automatic,High Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive,2
+Hyundai,43684.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Otro,Pickup Truck,4.0,Phantom Black,Black,All-wheel Drive,1
+Chrysler,38954.0,24V MPFI DOHC,6.0,Gasoline,8.0,9-Speed Automatic,LX,Passenger Van,4.0,Bright White Clearcoat,Black,Front-wheel Drive,1
+GMC,59466.0,16V GDI OHV,8.0,Gasoline,0.0,10-Speed Automatic,Otro,Pickup Truck,4.0,Otro,Jet Black,Four-wheel Drive,1
+Ford,38036.0,Otro,4.0,Gasoline,4.0,8-Speed Automatic,XLT,Cargo Van,4.0,Otro,Ebony,Front-wheel Drive,2
+Toyota,60573.0,Otro,6.0,Hybrid,1.0,10-Speed Automatic,Limited,Pickup Truck,4.0,Otro,Otro,Four-wheel Drive,1
+RAM,59620.0,16V MPFI OHV,8.0,Gasoline,0.0,Automatic,Tradesman,Pickup Truck,4.0,Diamond Black,Black,Four-wheel Drive,1
+Jeep,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Latitude,SUV,4.0,Silver Zynith,Black,Four-wheel Drive,1
+Hyundai,42295.0,c,0.0,Electric,0.0,Automatic,SEL,SUV,4.0,Atlas,Gray,Rear-wheel Drive,1
+Jeep,41230.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,9.0,Automatic,Trailhawk,SUV,4.0,Otro,Otro,Four-wheel Drive,1
+Jeep,54210.0,24V MPFI DOHC,6.0,Gasoline,0.0,8-Speed Automatic,Rubicon,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,2
+Hyundai,44565.0,c,0.0,Electric,7.0,1-Speed Automatic,SEL,SUV,4.0,Gold,Gray,All-wheel Drive,1
+Hyundai,29111.0,16V MPFI DOHC,4.0,Gasoline,11.0,Automatic CVT,SEL,SUV,4.0,Otro,Gray,Front-wheel Drive,1
+GMC,96860.0,32V DDI OHV Turbo Diesel,8.0,Diesel,0.0,10-Speed Automatic,Otro,Pickup Truck,4.0,White Frost Tri-Coat,Otro,Four-wheel Drive,1
+Kia,34635.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,SX,SUV,4.0,White,Black,Front-wheel Drive,1
+Jeep,79487.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,18.0,8-Speed Automatic,Series II,SUV,4.0,Riverrock Green,Black,Four-wheel Drive,1
+Volkswagen,23160.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,13.0,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4.0,Pure White,Titan Black,Front-wheel Drive,1
+Jeep,74366.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,4.0,8-Speed Automatic,Base,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive,1
+Hyundai,40979.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,12.0,6-Speed Automatic,Limited,SUV,4.0,Amazon Gray,Black,All-wheel Drive,1
+Ford,39025.0,Otro,4.0,Gasoline,5.0,Automatic,SE,SUV,4.0,Carbonized Gray Metallic,Ebony,All-wheel Drive,1
+Hyundai,45269.0,c,0.0,Electric,4.0,1-Speed Automatic,SEL,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Jeep,81160.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,4.0,8-Speed Automatic,Series II,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+Ford,50202.98569969356,16V GDI DOHC Turbo,4.0,Gasoline,1342.0,8-Speed Automatic,SE,SUV,4.0,Metallic,Ebony,All-wheel Drive,1
+Nissan,21195.0,Otro,4.0,Gasoline,0.0,CVT,Otro,Sedan,4.0,Otro,Graphite,Front-wheel Drive,1
+Jeep,63440.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Base,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+Hyundai,33969.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Limited,SUV,4.0,Otro,Gray,Front-wheel Drive,1
+Ford,38598.0,Otro,4.0,Gasoline,10.0,Automatic,SEL,SUV,4.0,Carbonized Gray Metallic,Otro,All-wheel Drive,1
+GMC,84405.0,16V GDI OHV,8.0,Gasoline,12.0,10-Speed Automatic,Otro,Pickup Truck,4.0,White Frost Tri-Coat,Otro,Four-wheel Drive,1
+Jeep,52810.0,24V MPFI DOHC,6.0,Gasoline,5.0,8-Speed Automatic,Limited,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,1
+Chevrolet,63145.0,Otro,6.0,Diesel,5.0,10-Speed Automatic,Otro,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+GMC,34940.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,9-Speed Automatic,Otro,SUV,4.0,Otro,Jet Black,All-wheel Drive,1
+Dodge,37498.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,12.0,Automatic,GT AWD,SUV,4.0,8 Ball,Black,All-wheel Drive,1
+RAM,58950.0,24V DDI OHV Turbo Diesel,6.0,Diesel,12.0,6-Speed Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Dodge,41890.0,24V MPFI DOHC,6.0,Gasoline,18.0,8-Speed Automatic,SXT,Sedan,4.0,Silver,Black,All-wheel Drive,2
+Jeep,38000.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,10.0,Automatic,Trailhawk,SUV,4.0,Bright White Clearcoat,Otro,Four-wheel Drive,1
+Ford,57000.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,5581.0,10-Speed Automatic,Base,Cargo Van,3.0,White,Gray,Rear-wheel Drive,2
+Jeep,48201.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Laredo,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+Audi,73360.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,12.0,Otro,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Dodge,47340.0,16V MPFI OHV,8.0,Gasoline,33.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+RAM,64111.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,6.0,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Black,Black Interior Color,Four-wheel Drive,1
+Kia,33590.0,16V PDI DOHC,4.0,Gasoline,12.0,8-Speed Automatic,LX,SUV,4.0,Ebony Black,Black,Front-wheel Drive,1
+INFINITI,46855.0,Otro,4.0,Gasoline,11.0,Otro,Otro,SUV,4.0,Otro,Otro,Front-wheel Drive,1
+Jeep,58779.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Limited,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive,1
+Subaru,32490.0,16V GDI DOHC,4.0,Gasoline,69.03305785123966,Automatic CVT,Premium,SUV,4.0,Otro,Black,All-wheel Drive,1
+Ford,45995.0,Otro,4.0,Gasoline,4723.0,8-Speed Automatic,Otro,SUV,4.0,Agate Black Metallic,Ebony,All-wheel Drive,1
+Nissan,42155.0,Otro,6.0,Gasoline,6.0,Automatic,Otro,SUV,4.0,Otro,Charcoal,Four-wheel Drive,1
+Jeep,47030.0,OHV,6.0,Gasoline,5.0,8-Speed Automatic,Laredo,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+Jeep,42425.0,OHV,6.0,Gasoline,5.0,8-Speed Automatic,Laredo,SUV,4.0,Silver Zynith,Black,Four-wheel Drive,1
+Dodge,42436.0,16V GDI DOHC Turbo,4.0,Gasoline,18.0,9-Speed Automatic,Otro,SUV,4.0,Gray,Black,All-wheel Drive,1
+Jeep,50202.98569969357,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Laredo,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+Jeep,56015.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,8.0,Automatic,Limited,SUV,4.0,Baltic Gray Metallic Clearcoat,Otro,Four-wheel Drive,1
+BMW,50202.98569969357,16V GDI DOHC Turbo,4.0,Gasoline,5.0,8-Speed Automatic,Otro,Sedan,4.0,Otro,Otro,Rear-wheel Drive,1
+Kia,41991.0,c,0.0,Electric,13.0,Automatic,Wind,SUV,4.0,Otro,Black,All-wheel Drive,1
+Honda,25950.0,Otro,4.0,Gasoline,14.0,Automatic,LX,SUV,4.0,Otro,Otro,Front-wheel Drive,1
+Honda,46350.0,24V GDI SOHC,6.0,Gasoline,0.0,9-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Honda,27450.0,Otro,4.0,Gasoline,5.0,Automatic,LX,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Kia,33375.0,16V PDI DOHC,4.0,Gasoline,148.0,8-Speed Automatic,EX,SUV,4.0,Ebony Black,Gray,All-wheel Drive,1
+Kia,39935.0,16V PDI DOHC,4.0,Gasoline,12.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,56119.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,20.0,8-Speed Automatic,Base,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,1
+Dodge,36810.0,16V GDI DOHC Turbo,4.0,Gasoline,15.0,9-Speed Automatic,GT,SUV,4.0,Gray,Black,All-wheel Drive,1
+Dodge,35585.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,0.0,Automatic,GT AWD,SUV,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,40375.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Otro,Pickup Truck,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,41720.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,Limited,SUV,4.0,Amazon Gray,Gray,All-wheel Drive,1
+Hyundai,41720.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,Limited,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Jeep,62255.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,26.0,8-Speed Automatic,Base,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,1
+Audi,57835.0,16V GDI DOHC Turbo,4.0,Gasoline,12.0,Otro,Otro,Hatchback,4.0,Otro,Otro,All-wheel Drive,1
+Jeep,108537.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,4501.0,8-Speed Automatic,Otro,SUV,4.0,Bright White Clearcoat,Otro,Four-wheel Drive,1
+RAM,63609.0,24V DDI OHV Turbo Diesel,6.0,Diesel,13.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Ford,64025.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,0.0,Automatic,Base,Cargo Van,3.0,Oxford White,Otro,All-wheel Drive,1
+RAM,86420.0,24V DDI OHV Turbo Diesel,6.0,Diesel,10.0,Automatic,Laramie,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive,1
+RAM,77525.0,16V MPFI OHV,8.0,Gasoline,0.0,8-Speed Automatic,Big Horn,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+Dodge,36195.0,16V GDI DOHC Turbo,4.0,Gasoline,5.0,9-Speed Automatic,GT,SUV,4.0,Blue Steel,Black,All-wheel Drive,1
+Chevrolet,43475.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,Automatic,Otro,Pickup Truck,4.0,Black,Jet Black,Four-wheel Drive,1
+Kia,35040.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,X-Line,SUV,4.0,Black,Black,All-wheel Drive,1
+Jeep,64434.0,Otro,6.0,Gasoline,20.0,Automatic,Base,SUV,4.0,Diamond Black Crystal Pearlcoat,Black,Four-wheel Drive,1
+RAM,67422.0,24V DDI OHV Turbo Diesel,6.0,Diesel,27.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,1
+Cadillac,60310.0,c,0.0,Electric,4.0,1-Speed Automatic,Luxury,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,61179.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,26.0,8-Speed Automatic,Base,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,1
+Jeep,67650.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,555.0,8-Speed Automatic,Trailhawk,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,2
+Mercedes-Benz,61276.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,10.0,9-Speed Automatic,Otro,Cargo Van,3.0,Otro,Black,Rear-wheel Drive,1
+BMW,94895.0,24V GDI DOHC Turbo,6.0,Gasoline,1946.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Ford,70115.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,8.0,10-Speed Automatic,XLT,SUV,4.0,Black,Black Onyx,Four-wheel Drive,1
+Jeep,77522.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,10.0,8-Speed Automatic,Series II,SUV,4.0,Diamond Black,Black,Four-wheel Drive,1
+Jeep,78655.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,69.03305785123968,8-Speed Automatic,Overland,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,1
+Nissan,24105.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SR,SUV,4.0,Electric Blue Metallic,Charcoal,Front-wheel Drive,1
+Buick,28000.0,12V GDI DOHC Turbo,3.0,Gasoline,5.0,6-Speed Automatic,Otro,SUV,4.0,Otro,Ebony,Front-wheel Drive,1
+Kia,33390.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SX,SUV,4.0,Ebony Black,Black,Front-wheel Drive,1
+Jeep,60884.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,2.0,8-Speed Automatic,Trailhawk,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,1
+Dodge,40880.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,24.0,Automatic,GT AWD,SUV,4.0,Otro,Black,All-wheel Drive,1
+Ford,35077.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,14.0,Automatic,Otro,SUV,4.0,Otro,Ebony,Four-wheel Drive,1
+Cadillac,47290.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,3.0,Automatic,Luxury,SUV,4.0,Otro,Jet Black,All-wheel Drive,1
+Jeep,44759.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive,1
+Chevrolet,26190.0,der,6.0,Gasoline,1.0,Automatic,Otro,SUV,5.0,Summit White,Black,Front-wheel Drive,0
+Dodge,50202.98569969356,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,21.0,6-Speed Automatic,R/T,SUV,4.0,Gray,Black,All-wheel Drive,1
+Ford,86490.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,6.0,10-Speed Automatic,Otro,SUV,4.0,Black,Otro,Four-wheel Drive,1
+RAM,84701.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,15.0,Automatic,Laramie,Pickup Truck,4.0,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,1
+BMW,88695.0,24V GDI DOHC Turbo,6.0,Gasoline,9.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Kia,33573.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,X-Line,SUV,4.0,Otro,Black,All-wheel Drive,1
+Mercedes-Benz,69017.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,10.0,9-Speed Automatic,Otro,Passenger Van,3.0,Otro,Black,Rear-wheel Drive,1
+RAM,60925.0,24V DDI OHV Turbo Diesel,6.0,Diesel,10.0,Automatic,Tradesman,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+Cadillac,73110.0,c,0.0,Electric,19.0,1-Speed Automatic,Luxury,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Kia,51965.0,Otro,6.0,Gasoline,8.0,Automatic,Otro,SUV,4.0,Gray,Black,All-wheel Drive,1
+Jeep,74366.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,4.0,8-Speed Automatic,Base,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive,1
+RAM,63670.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,22.0,Automatic,Tradesman,Pickup Truck,4.0,Otro,Diesel Gray/Black,Four-wheel Drive,1
+Ford,35010.0,12V PDI DOHC Turbo,3.0,Gasoline,10.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Ebony,Four-wheel Drive,1
+Mazda,49900.0,24V GDI DOHC Turbo,6.0,Gasoline,0.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Mercedes-Benz,75925.0,24V GDI DOHC Turbo,6.0,Gasoline,7.0,9-Speed Automatic,4MATIC,SUV,4.0,Polar White,Black,All-wheel Drive,1
+RAM,93303.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,10.0,Automatic,Laramie,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive,1
+Mazda,58049.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,Premium Plus,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,49260.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,Altitude,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive,1
+Ford,50202.98569969357,16V GDI DOHC Turbo,4.0,Gasoline,5.0,8-Speed Automatic,SE,SUV,4.0,Metallic,Ebony,All-wheel Drive,1
+Ford,52640.0,Otro,6.0,Otro,6.0,10-Speed Automatic,Base,Cargo Van,3.0,Oxford White,Gray,Rear-wheel Drive,1
+Kia,38040.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,Otro,SUV,4.0,Black,Black,All-wheel Drive,1
+Jeep,49390.0,OHV,6.0,Gasoline,69.03305785123968,8-Speed Automatic,Limited,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive,1
+Hyundai,32491.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,Limited,SUV,4.0,Otro,Black,Front-wheel Drive,1
+Mercedes-Benz,51725.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic with Auto-Shift,Base 4MATIC,SUV,4.0,Otro,Black,All-wheel Drive,1
+Chevrolet,58720.0,Otro,6.0,Diesel,0.0,Automatic,LT,Pickup Truck,4.0,Otro,Jet Black,Four-wheel Drive,1
+Otro,60490.0,c,0.0,Electric,11.0,1-Speed Automatic,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+BMW,195895.0,c,0.0,Electric,0.0,1-Speed Automatic,Otro,Sedan,4.0,Otro,Otro,All-wheel Drive,1
+Hyundai,37215.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,69.03305785123968,6-Speed Automatic,SEL Convenience,SUV,4.0,Black Pearl,Gray,All-wheel Drive,1
+Kia,32995.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SX,SUV,4.0,Ebony Black,Black,Front-wheel Drive,1
+Dodge,47340.0,16V MPFI OHV,8.0,Gasoline,14.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Mazda,54800.0,24V GDI DOHC Turbo,6.0,Gasoline,0.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Otro,All-wheel Drive,1
+Jeep,49285.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,15.0,8-Speed Automatic,Base,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive,1
+Dodge,49895.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,8-Speed Automatic,Latitude,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive,1
+Jeep,63440.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Base,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,1
+Honda,38305.0,Otro,0.0,Gasoline,0.0,Automatic CVT,Otro,SUV,5.0,Otro,Black,All-wheel Drive,0
+Dodge,57486.0,16V MPFI OHV,8.0,Gasoline,10.0,8-Speed Automatic,R/T,SUV,4.0,Otro,Black,All-wheel Drive,1
+Dodge,40085.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,16.0,6-Speed Automatic,R/T,SUV,4.0,Blue,Black,All-wheel Drive,1
+Otro,57545.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,3.0,8-Speed Automatic,Otro,Sedan,4.0,Otro,Charcoal,All-wheel Drive,1
+Ford,74391.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,85.0,Automatic,Base,Cargo Van,3.0,Oxford White,Otro,All-wheel Drive,1
+Kia,44876.0,Otro,4.0,Gasoline,16.0,Automatic,EX,SUV,4.0,Ebony Black,Black,All-wheel Drive,2
+RAM,64965.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,16.0,Automatic,Tradesman,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Diesel Gray/Black,Four-wheel Drive,1
+Ford,38481.0,Otro,4.0,Hybrid,10.0,Automatic,Platinum,SUV,4.0,Agate Black Metallic,Ebony,All-wheel Drive,1
+RAM,77085.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,16.0,Automatic,Laramie,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive,1
+Mazda,58825.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Deep Crystal Blue Mica,Otro,All-wheel Drive,1
+Nissan,26335.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SR,SUV,4.0,Otro,Charcoal,Front-wheel Drive,1
+Dodge,49720.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4.0,Otro,Black,All-wheel Drive,1
+Chevrolet,50565.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Otro,Pickup Truck,4.0,Black,Jet Black,Four-wheel Drive,1
+Buick,31805.0,12V GDI DOHC Turbo,3.0,Gasoline,69.03305785123966,6-Speed Automatic,Otro,SUV,4.0,Otro,Ebony,Front-wheel Drive,1
+Chevrolet,38717.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,6-Speed Automatic,RS,SUV,4.0,Radiant Red,Jet Black,All-wheel Drive,1
+Cadillac,50415.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,9-Speed Automatic,Otro,SUV,4.0,Otro,Jet Black,Front-wheel Drive,1
+Ford,50486.0,Otro,6.0,Otro,24.0,Otro,Otro,Cargo Van,3.0,Oxford White,Otro,Rear-wheel Drive,1
+Volkswagen,32406.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,11.0,Otro,1.5T SE,SUV,4.0,Deep Black Pearl,Black,Front-wheel Drive,1
+Kia,40250.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,Otro,SUV,4.0,Black,Black,All-wheel Drive,1
+Dodge,47340.0,16V MPFI OHV,8.0,Gasoline,11.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive,2
+Subaru,29068.0,16V GDI DOHC,4.0,Gasoline,5.0,Automatic CVT,Sport,Hatchback,4.0,Otro,Black,All-wheel Drive,1
+Mazda,54620.0,Otro,6.0,Gasoline,0.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Otro,All-wheel Drive,0
+Chrysler,38954.0,24V MPFI DOHC,6.0,Gasoline,5.0,9-Speed Automatic,LX,Passenger Van,4.0,Bright White Clearcoat,Black,Front-wheel Drive,1
+Jeep,49842.0,24V MPFI DOHC,6.0,Gasoline,69.03305785123966,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Beige / Black,Four-wheel Drive,1
+Nissan,46510.0,24V MPFI DOHC,6.0,Gasoline,6.0,Automatic CVT,Otro,SUV,4.0,Otro,Graphite,All-wheel Drive,1
+Hyundai,40933.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,7.0,6-Speed Automatic,Limited,SUV,4.0,Black Pearl,Gray,All-wheel Drive,1
+BMW,49395.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,5.0,Otro,Otro,SUV,4.0,Otro,Otro,Rear-wheel Drive,1
+Jeep,28265.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Latitude,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+RAM,53750.0,Otro,8.0,Gasoline,0.0,Automatic,Otro,Pickup Truck,2.0,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive,1
+Subaru,39822.0,16V GDI DOHC,4.0,Gasoline,69.03305785123968,Automatic CVT,Limited,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,88135.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,21.0,8-Speed Automatic,Series II,SUV,4.0,Velvet Red Pearlcoat,Black,Four-wheel Drive,1
+Ford,30798.0,12V PDI DOHC Turbo,3.0,Gasoline,8.0,Automatic,ST-Line,SUV,4.0,Agate Black Metallic,Otro,Front-wheel Drive,1
+Otro,62240.0,c Motor,0.0,Electric,0.0,Automatic,Otro,SUV,4.0,Gray,Charcoal,All-wheel Drive,2
+Jeep,38300.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,24.0,Automatic,Trailhawk,SUV,4.0,Bright White Clearcoat,Otro,Four-wheel Drive,2
+Volkswagen,25311.0,16V GDI DOHC Turbo,4.0,Gasoline,5.0,7-Speed DSGA? Automatic w/ 4MO,1.5T S,SUV,4.0,Pyrite Silver Metallic,Black,All-wheel Drive,1
+Jeep,49201.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Laredo,SUV,4.0,Metallic,Global Black,Four-wheel Drive,1
+Volkswagen,29386.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Pure White,Black,All-wheel Drive,1
+Jeep,72835.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,20.0,8-Speed Automatic,Base,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive,2
+Volkswagen,28994.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Otro,Black,All-wheel Drive,1
+Dodge,49895.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4.0,Otro,Black,All-wheel Drive,1
+Hyundai,36280.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,241.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Ford,80374.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,13.0,10-Speed Automatic,Limited,SUV,4.0,Black,Black Onyx,Four-wheel Drive,1
+RAM,51380.0,24V MPFI DOHC,6.0,Gasoline,10.0,9-Speed Automatic,Otro,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive,1
+Dodge,52180.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4.0,Otro,Black,All-wheel Drive,1
+Dodge,50202.98569969357,16V GDI DOHC Turbo,4.0,Gasoline,11.0,9-Speed Automatic,GT,SUV,4.0,Gray,Black,All-wheel Drive,1
+Volkswagen,28998.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Otro,Black,All-wheel Drive,1
+Nissan,24979.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,5.0,Otro,SV,SUV,4.0,Otro,Charcoal,Front-wheel Drive,1
+Hyundai,38201.0,c,0.0,Electric,12.0,Automatic,SE,SUV,4.0,Otro,Gray,Rear-wheel Drive,1
+RAM,50245.0,Otro,6.0,Gasoline,0.0,Automatic,High Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive,2
+Ford,50202.98569969356,16V GDI DOHC Turbo,4.0,Gasoline,697.0,8-Speed Automatic,ST-Line,SUV,4.0,Star White,Ebony,All-wheel Drive,1
+Kia,41528.0,c,0.0,Electric,13.0,Automatic,Wind,SUV,4.0,Blue,Black,All-wheel Drive,1
+Jeep,49082.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,51.0,8-Speed Automatic,Base,SUV,4.0,Bright White Clearcoat,Otro,Four-wheel Drive,1
+Subaru,32098.0,16V GDI DOHC,4.0,Gasoline,5.0,Automatic CVT,RS,Hatchback,4.0,Otro,Black,All-wheel Drive,1
+Jeep,53791.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,8-Speed Automatic,Base,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,1
+Jeep,49139.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Laredo,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,1
+Ford,72135.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,7.0,10-Speed Automatic,XLT,SUV,4.0,Black,Black Onyx,Four-wheel Drive,1
+Honda,37965.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,Automatic CVT,Otro,SUV,4.0,Otro,Black,All-wheel Drive,1
+Kia,21000.0,Otro,4.0,Gasoline,5.0,Automatic,S,Hatchback,4.0,Otro,Black,Front-wheel Drive,1
+Hyundai,37335.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,1.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Black Pearl,Black,All-wheel Drive,1
+Kia,33785.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,X-Line,SUV,4.0,Red,Black,All-wheel Drive,1
+Chrysler,35994.0,24V MPFI DOHC,6.0,Gasoline,10.0,8-Speed Automatic,Otro,Sedan,4.0,Otro,Black,Rear-wheel Drive,2
+GMC,48268.0,16V GDI OHV,8.0,Gasoline,3.0,10-Speed Automatic,Otro,Pickup Truck,2.0,Summit White,Jet Black,Rear-wheel Drive,1
+Dodge,45141.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T Plus,SUV,4.0,Blue Steel,Black,All-wheel Drive,1
+Volkswagen,28098.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,66.0,Otro,1.5T S,SUV,4.0,Deep Black Pearl,Otro,All-wheel Drive,1
+Nissan,24430.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SR,SUV,4.0,Electric Blue Metallic,Charcoal,Front-wheel Drive,1
+Nissan,24430.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SR,SUV,4.0,Otro,Charcoal,Front-wheel Drive,1
+Nissan,25080.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SR,SUV,4.0,Otro,Charcoal,Front-wheel Drive,1
+Mercedes-Benz,73960.0,16V PDI DOHC Turbo,4.0,Gasoline,5.0,9-Speed Automatic,Base 4MATIC,Sedan,4.0,Otro,Black,All-wheel Drive,1
+Jeep,46659.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Laredo,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive,1
+Dodge,43490.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,18.0,6-Speed Automatic,R/T,SUV,4.0,Gray,Black,All-wheel Drive,1
+Dodge,47280.0,16V MPFI OHV,8.0,Gasoline,22.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive,2
+RAM,80927.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,11.0,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,White,Black,Four-wheel Drive,1
+Chevrolet,33977.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,6-Speed Automatic,1LT,SUV,4.0,Summit White,Jet Black,All-wheel Drive,1
+Ford,36550.0,16V GDI DOHC Turbo,4.0,Gasoline,4.0,8-Speed Automatic,XLT,Pickup Truck,4.0,Carbonized Gray Metallic,Black Onyx,All-wheel Drive,1
+Hyundai,37805.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SEL Convenience,SUV,4.0,White Pearl,Gray,All-wheel Drive,1
+Jeep,74625.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,10.0,8-Speed Automatic,Series II,SUV,4.0,Silver,Global Black,Four-wheel Drive,1
+Dodge,43613.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T Plus,SUV,4.0,Gray,Black,All-wheel Drive,1
+Jeep,49836.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,7.0,Automatic,Altitude,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+Hyundai,27555.0,16V MPFI DOHC,4.0,Gasoline,0.0,Automatic CVT,SE,SUV,4.0,Otro,Black,All-wheel Drive,1
+Ford,29305.0,12V PDI DOHC Turbo,3.0,Gasoline,10.0,8-Speed Automatic,Active,SUV,4.0,Carbonized Gray Metallic,Ebony,Front-wheel Drive,1
+Ford,40015.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,8-Speed Automatic,SE,SUV,4.0,Gray,Ebony,All-wheel Drive,1
+Kia,35195.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,Otro,SUV,4.0,Ebony Black,Black,Front-wheel Drive,1
+Kia,43439.0,c,0.0,Electric,14.0,Automatic,Wind,SUV,4.0,Otro,Black,All-wheel Drive,1
+Ford,35615.0,Otro,3.0,Gasoline,0.0,8-Speed Automatic,Otro,SUV,4.0,Otro,Otro,Four-wheel Drive,1
+Kia,21070.0,16V MPFI DOHC,4.0,Gasoline,69.03305785123968,Automatic CVT,Otro,Sedan,4.0,Otro,Black,Front-wheel Drive,1
+Nissan,20842.0,16V MPFI DOHC,4.0,Gasoline,4.0,Automatic CVT,S,Sedan,4.0,Gun Metallic,Charcoal,Front-wheel Drive,1
+Ford,43685.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,10-Speed Automatic,XLT,SUV,4.0,Carbonized Gray Metallic,Ebony,Rear-wheel Drive,1
+Jeep,66770.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,20.0,8-Speed Automatic,Base,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive,1
+RAM,48822.0,24V MPFI DOHC,6.0,Gasoline,12.0,9-Speed Automatic,Otro,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive,1
+Hyundai,37220.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Otro,Gray,All-wheel Drive,1
+Jeep,67164.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,29.0,8-Speed Automatic,Trailhawk,SUV,4.0,Metallic,Global Black,Four-wheel Drive,1
+Hyundai,37309.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Amazon Gray,Black,All-wheel Drive,1
+Jeep,77314.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,6.0,8-Speed Automatic,Overland,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,1
+Jeep,70312.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,24.0,8-Speed Automatic,Overland,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive,1
+Jeep,36331.0,16V GDI DOHC Turbo,4.0,Gasoline,17.0,8-Speed Automatic,Latitude,SUV,4.0,Silver Zynith,Black,Four-wheel Drive,1
+Jeep,62343.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,8-Speed Automatic,Base,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive,1
+RAM,67446.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,296.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive,1
+Hyundai,40835.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,16.0,Automatic,Limited,SUV,4.0,Amazon Gray,Black,All-wheel Drive,1
+Jeep,54620.0,24V MPFI DOHC,6.0,Gasoline,5.0,Automatic,Sport,Pickup Truck,4.0,Otro,Black,Four-wheel Drive,1
+Jeep,59674.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,8.0,Automatic,Limited,SUV,4.0,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,1
+RAM,69315.0,24V DDI OHV Turbo Diesel,6.0,Diesel,0.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive,1
+Mercedes-Benz,59037.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,10.0,9-Speed Automatic,Otro,Cargo Van,3.0,Otro,Black,Rear-wheel Drive,1
+Dodge,49720.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4.0,Otro,Black,All-wheel Drive,1
+Jeep,69085.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,20.0,8-Speed Automatic,Base,SUV,4.0,Diamond Black,Black,Four-wheel Drive,1
+Nissan,43495.0,Otro,6.0,Gasoline,6.0,Automatic,Otro,SUV,4.0,Otro,Graphite,All-wheel Drive,1
+Chevrolet,48995.0,Otro,8.0,Gasoline,31.0,Automatic,Otro,Pickup Truck,4.0,Otro,Jet Black,Rear-wheel Drive,1
