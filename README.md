@@ -16,3 +16,5 @@ Luego gracias a la librería de scikit learn la cual permite usar Regresiones Li
 
 ## Conclusión
 Si quieres ver las comparaciones y sacar tus propias conclusiones te invito a ejecutar el notebook main el cual te ira guiando por los pasos realizados hasta llegar al modelo ganador.
+
+[VIDEO](https://drive.google.com/file/d/1igdVkx4Z0hSEFyxzG-UG1bFciyE03VkF/view?usp=sharing)
