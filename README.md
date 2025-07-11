@@ -1,5 +1,7 @@
 # ML_Vehicle_Price
 ## Introducción
+Si te pasa como a mi que has visto que últimamente los precios de los coches se han ido encareciendo hasta el punto de no tener idea de cuanto puede costar uno. Pero si te dijera que con conocer varias caracteristicas del coche de tus sueños puedas tener un estimado del precio ¿qué me dirías?
+
 En este proyecto se busca poder predecir el precio de un vehículo mediante una serie de características del mismo para esto se utilizó el dataset público [Vehicle Price](https://www.kaggle.com/code/sahilislam007/vehicle-price-prediction/input) el cual mediante el enlace se puede acceder a la página en Kaggle.
 Este dataset cuenta con 17 variables incluyendo al precio, y 1002 registros.
 Mediante el uso de Python con tecnicas de Machine Learning y comparación de las mismas se ha logrado crear un módulo que pueda predecir con un Error Porcentual Absoluto Medio, mejor conocido como MAPE, del 11%.
